@@ -1,0 +1,310 @@
+Ordenanza Nº10448/25
+Ordenanza Nº 10448/25
+Chacabuco, 10/01/2025
+IMPOSITIVA ANUAL
+(EJERCICIO AÑO 2025)
+INDICE
+MUNICIPALIDAD DE CHACABUCO TASAS MUNICIPALES
+CAPITULO
+TRIBUTO
+ARTÍCULOS
+1
+TASA POR SERVICIOS GENERALES URBANOS
+1 y 2
+2
+TASA POR SERVICIOS ESPECIALES DE
+LIMPIEZA E HIGIENE
+3
+3
+TASA POR HABILITACION/RADICACION DE
+COMERCIOS E INDUSTRIAS
+4 a 6
+TASA POR INSPECCION DE SEGURIDAD E
+HIGIENE
+7 a 11
+4
+TASA INSPECCIÓN DE ANTENAS
+12
+5
+DERECHOS DE PUBLICIDAD Y PROPAGANDA
+13 a 15
+6
+DERECHOS POR VENTA EN LA VÍA PÚBLICA
+16 y 17
+7
+TASA INSPECCIÓN VETERINARIA
+18
+8
+DERECHOS DE OFICINA
+19
+9
+DERECHOS DE CONSTRUCCION
+20 a 24
+10
+DERECHO DE OCUPACION O USO DE
+ESPACIOS PUBLICOS
+25
+11
+DERECHO A LOS ESPECTACULOS PUBLICOS
+26
+12
+PATENTES DE JUEGOS PERMITIDOS
+27 y 28
+13
+PATENTES DE RODADOS
+29
+14
+TASA POR CONTROL DE MARCAS Y SEÑALES
+30
+15
+TASA POR CONSERVACION, REPARACION Y
+MEJORADO DE LA RED VIAL MUNICIPAL
+32
+16
+DERECHOS DE CEMENTERIO
+33
+17
+ESTACIONAMIENTOMEDIDO
+34 a 38
+18
+TASA DE OBRAS DE INFRAESTRUCTURA
+URBANAY SOCIAL
+39 a 46
+19
+TASA DE SEGURIDAD
+47 y 48
+20
+DERECHO DE CIRCULACIÓN DE RIFAS Y/O BONOS
+49
+21
+TASA POR SERVICIOS VARIOS
+50
+22
+TASA PARA FINANCIAMIENTO DE
+UNIVERSIDADES Y BECAS
+51
+23
+EXENCIONES
+52 a 58
+OTRAS DISPOSICIONES
+59 a 68
+24
+CAPITULO Nº1: TASA POR SERVICIOS GENERALES URBANOS
+ARTICULO N.º 1:
+1.: SERVICIOS POR ALUMBRADO PÚBLICO
+A. CONTRIBUYENTES SIN CONEXIÓN DE ENERGÍA ELÉCTRICA:
+Se fijan los valores a abonar por el alumbrado común o especial, por mes, por metro lineal o fracción de frente de terreno, conforme a la siguiente escala:
+CIUDAD DE CHACABUCO
+I. Zona Primera
+Edificado
+Especial Común
+Baldío
+Esquina 82.06 –
+220.46
+Centro 123.92 –
+220.46
+II. Zona Segunda
+Edificado
+Especial Común
+Baldío
+Esquina 57.04 25.37
+160.23
+Centro 88.38 25.37
+160.23
+III. Zona Tercera
+Edificado
+Especial Común
+Baldío
+Esquina 33.97 13.93
+80.12
+Centro 48.10 20.95
+80.12
+LOCALIDADES: RAWSON, CASTILLA, O´HIGGINS y CUCHA CUCHA:
+Se aplicarán los valores especificados en el acápite anterior, a partir de la Zona II como inicio de la escala.
+B. CONTRIBUYENTES CON CONEXIÓN DE ENERGÍA ELÉCTRICA:
+Por la prestación del servicio de alumbrado público, común o especial, los sujetos responsables del artículo 74 de la Ordenanza Nº 350/86ysus modificatorias, de la ciudad de Chacabuco y localidades de O’Higgins, Rawson, Castilla y Cucha – Cucha abonarán la tasa que surja de aplicar las alícuotas sobre el importe de consumo neto de los gravámenes nacionales, provinciales y municipales, de las facturas de energía eléctrica que emita la Cooperativa Eléctrica de Chacabuco Ltda., de acuerdo a las categorías del cuadro tarifario que estipula el Organismo de Control de Energía Eléctrica de la Provincia de Buenos Aires (OCEBA).
+ALÍCUOTAS
+Las alícuotas aplicables sobre el importe de consumo de energía eléctrica, serán las siguientes:
+Usuarios categoría T1R– Uso residencial 22,5%
+Usuarios categoríaT1G–Servicio General 22,5%
+Usuarios categoría T2– Medianas demandas…4%
+Usuarios categoría T3–Grandes demandas 1.5%
+Usuarios categoría T5–Servicio de peaje 1.5%
+Los usuarios incluidos en los puntos a) y b) y ubicados en la zona segunda abonarán un alícuota equivalente al noventa por ciento (90%) de la escala consignada.
+CUOTAS MÍNIMAS Y MÁXIMAS
+Se fijan las cuotas mínimas y máximas mensuales, en cantidad de kw/h:
+Usuarios categoría T1R–Uso residencial:
+MINIMO MAXIMO
+10 300
+Usuarios categoría T1G–Servicio General:
+MINIMO MAXIMO
+10 120
+Para la determinación de los importes mínimos y máximos se aplicará la tarifa del alumbrado público incluida en los cuadros tarifarios de la Cooperativa Eléctrica de Chacabuco Ltda. vigentes al momento de la facturación.
+Para los contribuyentes en cuadrados en la tarifa social o electro dependientes se aplicará, para el cálculo de la tasa por alumbrado público, el 50% del valor de los cuadros tarifarios de la Cooperativa Eléctrica de Chacabuco Ltda. vigentes al momento de la facturación. Para los contribuyentes incluidos en los incisos a) y b) del presente artículo, y ubicados en la zona segunda se aplicarán mínimos y máximos equivalentes al noventa por ciento (90%) de los valores señalados.
+El Departamento Ejecutivo podrá reducir los valores de alumbrado público previstos en el artículo 1º de la presente ordenanza en las zonas con servicios de alumbrado incandescente o no decorativo.
+ZONAS
+A los fines de la aplicación de la tasa por alumbrado público en las condiciones y modalidad dispuesta en los puntos precedentes, los contribuyentes establecidos en el artículo 84 de la Ordenanza Fiscal se discriminarán de acuerdo con las siguientes zonas y en función del domicilio en que se produzca el consumo:
+ZONA PRIMERA: Incluye los contribuyentes con consumos en la ciudad de Chacabuco.
+ZONA SEGUNDA: Incluye la totalidad de los contribuyentes con consumos no comprendidos en la Zona Primera.
+2. SERVICIOS DE LIMPIEZA Y CONSERVACIÓN DE LA VÍA PÚBLICA
+BARRIDO: Se fijan los valores a abonar por el barrido de calles pavimentadas, por mes, por metro lineal o fracción de frente de terreno, conforme a la siguiente escala:
+I. Zona Primera
+Edificado
+Baldío
+Esquina
+157.90
+440.91
+Centro
+233.70
+611.81
+II. Zona Segunda
+Edificado
+Baldío
+Esquina
+137.41
+331.14
+Centro
+199.16
+471.48
+III. Zona Tercera
+Edificado
+Baldío
+Esquina
+62.19
+160.23
+Centro
+96.14
+230.46
+RECOLECCION DE RESIDUOS: Se fijan valores a abonar por la recolección de residuos a domicilio, por mes, por unidad contributiva, conforme a la siguiente escala:
+I. Zona Primera
+Edificado
+Baldío
+Esquina
+2196.02
+9632.94
+Centro
+2196.02
+9632.94
+II. Zona Segunda
+Edificado
+Baldío
+Esquina
+2890.53
+6982.34
+Centro
+2890.53
+6982.34
+III. Zona Tercera
+Edificado
+Baldío
+Esquina
+1384.52
+3204.99
+Centro
+1384.52
+3204.99
+RIEGO: Se fijan los valores a abonar por el riego en las calles de tierra, por mes, por metro lineal o fracción de frente de terreno, conforme a la siguiente escala:
+I. Zona Segunda
+Edificado
+Baldío
+Esquina
+96.14
+251.02
+Centro
+144.25
+351.03
+II. Zona Tercera
+Edificado
+Baldío
+Esquina
+54.92
+101.48
+Centro
+102.07
+170.72
+CONSERVACION DE CALLES: Se fijan valores a abonar por el mantenimiento y conservación de la vía pública y ornato de calles, plazas y paseos, por mes, por metro lineal o fracción de frente de terreno, conforme a la siguiente escala:
+I. Zona Primera
+Edificado
+Baldío
+Esquina
+171.86
+440.91
+Centro
+233.70
+621.51
+II. Zona Segunda
+Edificado
+Baldío
+Esquina
+137.41
+331.14
+Centro
+199.16
+471.48
+III. Zona Tercera
+Edificado
+Baldío
+Esquina
+62.19
+159.51
+Centro
+96.14
+230.46
+Se establece un importe mínimo de cuatro mil trescientos ochenta y un pesos con veintinueve centavos ($ 4.381,29) para lo contemplado en los puntos 1. Inciso A) y 2. Incisos A) a D), del presente artículo.
+Las cocheras de edificios de altura, que de acuerdo a sus planos sean unidades funcionales independientes a los departamentos, pagarán un valor fijo de tres mil doscientos noventa y siete pesos con treinta y nueve centavos por mes ($ 3.297,39).
+SERVICIOS SANITARIOS:
+CIUDAD DE CHACABUCO: Para el cálculo de los servicios determinados en el Artículo 109 de la Ordenanza Fiscal, se fijan los siguientes valores, por mes, por unidad contributiva:
+Zona Primera
+Zona Segunda
+Zona Tercera
+1) Por servicio de agua corriente
+6.917,40
+5.709,63
+3.843,04
+2) Por servicio de desagües cloacales
+3.403,87
+2.810,91
+1.976,42
+3) Aguas y cloacas
+10.321,24
+8.454,62
+5.819,42
+La clasificación de las zonas será de acuerdo a lo establecido en el artículo 94 de la Ordenanza Fiscal.
+Los valores establecidos por la presente Ordenanza serán reducidos en hasta un sesenta y cinco por ciento (65 %), a pedido del contribuyente y previa inspección y dictamen de la Secretaría de Obras Públicas, cuando el inmueble objeto de la tasa no tuviera conexión de agua corriente y/o cloacas.
+Se establecen los coeficientes a que se refiere el Artículo 113º de la Ordenanza Fiscal:
+Clase I: 1.00
+Clase II: 1.10
+Clase III: 1.30
+Clase IV: 1.35
+Cuando conforme a las disposiciones de la Ordenanza Fiscal para el partido de Chacabuco, el D.E. implemente efectivamente el sistema de medición del servicio de agua corriente para aquellos consumos superiores a 600 litros diarios por conexión, se aplicará, la escala que oportunamente se determine para tal fin.
+Ello, sin perjuicio de que los referidos usuarios deberán abonar la tasa por Servicios Sanitarios devengada mensualmente.
+Las cocheras de edificios de altura, que de acuerdo a sus planos sean unidades funcionales independientes a los departamentos, estarán eximidas de la tasa de servicios sanitarios.
+CONSUMO DE AGUA PARA LA CONSTRUCCIÓN:
+La liquidación de consumo de agua para la construcción será independiente de las cuotas por el servicio que corresponda al inmueble, y se abonará en la forma y plazo que determine la Secretaría de Obras Públicas.
+El agua destinada a construcción de edificios se cobrará por metro cuadrado de superficie cubierta de acuerdo con los siguientes valores:
+Tinglados y galpones de materiales metálicos, cemento, madera o similares. $ 73
+Galpones con cubierta de material plástico, madera, asbestos, cemento o similares y muros de mampostería sin estructura resistente de hormigón armado. $ 102.
+Galpones con estructuras resistentes de hormigón y muros de mampostería. $ 183.
+Edificios en general para vivienda, comercios, industrias, oficinas públicas y privadas, colegios, hospitales, etc.:
+o Sin estructura resistente $ 220
+o Con estructura resistente $ 330
+Para la construcción de pavimentos y soldados en general, el agua a emplearse abonará conforme a las siguientes tarifas:
+1. Calzada con hormigón, o con base de hormigón, por metro cuadrado…$124
+2. Cordón cuneta de hormigón, por metro cuadrado…$ 124
+Cuando el hormigón se elabore fuera del lugar de la obra, los valores de los puntos 1 y 2 precedentes, se liquidarán con un descuento del treinta por ciento (30 %).
+Queda eximido del pago de este servicio, el consumo de agua destinado a la construcción de viviendas económicas.
+Las explotaciones industriales, comerciales y/o agrícolas con apertura de pozos particulares, abonarán porcada boca de pozo por mes $ 273.050 cuando el equipamiento de extracción posea impulsor superior a 3 HP.
+CONEXIONES DE SERVICIO DE AGUA:
+Se abonará el monto establecido por la Dirección de Obras Sanitarias, que surge de valorizar el servicio, conforme a los valores corrientes al momento de la prestación del mismo, más el costo del medidor colocado de acuerdo al valor vigente que establezca la Secretaria de Obras Públicas, en caso de corresponder. La información requerida deberá ser puesta a disposición por escrito expresando fecha a la que se encuentran expresados los valores. Transcurridos 30 días corridos perderá vigencia debiendo ser liquidado nuevamente para proseguir con el trámite. La fuente de información aplicable para la actualización serán los incisos a), h), j), p) y u) del art. 15 del Decreto 1295/2002 del Ejecutivo Nacional.
+La Subsecretaría de Recaudación podrá liquidar este importe en hasta 6 cuotas, para los casos de viviendas familiares.
+CONEXIONES DE SERVICIO DE DESAGÜES CLOACALES:
+Sobre simple colectora…$ 73
+Sobre doble colectora……. $ 95
+Por rotura y reparación de veredas, por m2 ……$ 11.680
+Conexión sobre red primaria sobre asfalto………………$ 12.410
+• Conexión sobre red primaria sobre tierra …………$ 6.060
+ROTURAS
+Por la rotura de cañerías del servicio de agua y/o cloacas, no imputables al municipio, deberá abonarse:
+● Agua: un mínimo equivalente al valor de 2 juntas de cañería ………$40.000 (actualizables según art. 15 inc. H del D.N.U. 1295/2002).
+● Cloacas: un mínimo de 6 m. lineales de cañería estándar, equivalentes a $140.000 (actualizables según art. 15 del D.N.U. 1295/2002)
+LOCALIDADES: RAWSON, CASTILLA Y O’HIGGINS: Se aplicarán los valores determinados para la ciudad cabecera, de acuerdo con las equivalencias establecidas por el artículo 95 de la Ordenanza Fiscal.

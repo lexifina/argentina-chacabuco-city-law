@@ -1,0 +1,1 @@
+ARTICULO Nº 43: El D.E. podrá destinar el diez por ciento (10%) de la recaudación de la tasa a obras de reparación y mantenimiento de calles, alcantarillado, señalización, energía eléctrica y toda obra de mantenimiento de la infraestructura social existente.

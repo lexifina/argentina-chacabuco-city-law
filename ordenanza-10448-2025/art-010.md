@@ -1,0 +1,1 @@
+ARTICULO Nº 10: Se establece como fecha de vencimiento para el pago de los anticipos bimestrales, el día 25 o hábil siguiente si este fuera inhábil, del mes siguiente al de la finalización del bimestre calendario.

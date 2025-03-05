@@ -1,0 +1,2 @@
+ARTICULO Nº 11: Se fija el 28-03-2025 como fecha de vencimiento para la presentación y pago de la Declaración Jurada Anual correspondiente al año 2024 en caso de corresponder. El Departamento Ejecutivo podrá determinar de oficio el saldo a abonar por la tasa del presente capítulo, cuando el contribuyente incumpla con su obligación de presentación de la Declaración Jurada Anual.
+INSPECCIÓN DE ANTENAS Y ESTRUCTURAS PORTANTES

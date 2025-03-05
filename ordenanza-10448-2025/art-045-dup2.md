@@ -1,0 +1,1 @@
+ARTICULO Nº 45: En caso de que se resuelva derogarla presente Ordenanza o desafectar el destino de los fondos creados por la misma, se necesitará voto de los 2/3 de los miembros del Honorable Concejo Deliberante.

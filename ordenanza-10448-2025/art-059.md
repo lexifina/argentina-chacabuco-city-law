@@ -1,0 +1,1 @@
+ARTICULO Nº59: Autorícese al Departamento Ejecutivo a modificar la Zonificación correspondiente a la Tasa por Servicios Generales Urbanos, prevista en el capítulo1°de la presente Ordenanza Impositiva; según análisis de desarrollo y urbanización de las zonas históricas.

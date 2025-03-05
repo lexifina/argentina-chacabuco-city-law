@@ -1,0 +1,2 @@
+ARTICULO Nº5: Están exentos de pagar esta tasa aquellos contribuyentes que inicien el trámite de pre factibilidad y habilitación simplificada en forma online. Autorizase al Departamento Ejecutivo a incorporar en esta exención a aquellos contribuyentes que inicien el trámite de habilitación en forma online, cuando razones de conveniencia así lo determinen.
+HABILITACIÓN DE ANTENAS Y ESTRUCTURAS PORTANTES

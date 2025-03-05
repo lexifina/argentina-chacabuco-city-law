@@ -1,0 +1,1 @@
+ARTÍCULO Nº44: La aplicación del fondo de financiamiento de Obras Públicas se efectuará mediante la cancelación de los respectivos certificados de obra emitidos de acuerdo con las formalidades que prescribe la Ley 6021 y sus modificatorias, para aquellas obras adjudicadas según Ley 6769/58 y sus modificatorias.

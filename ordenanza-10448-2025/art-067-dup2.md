@@ -1,0 +1,1 @@
+ARTICULO Nº 67: Autorícese al Departamento Ejecutivo a modificar las tablas históricas de devengamiento para su simplificación y actualización sin que esto signifique alteración alguna de los valores que esta ordenanza dispone para las tasas de Alumbrado, Barrido, Limpieza y Conservación de Calles y la tasa de Servicios Sanitarios.

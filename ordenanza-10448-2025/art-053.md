@@ -1,0 +1,1 @@
+ARTICULO Nº 53: Las entidades comprendidas en los puntos 1), 2), 3), 6) y 7) del inciso a) y de los incisos b) y c) del artículo anterior deberán estar reconocidas como entidades de bien público por la Municipalidad de Chacabuco, de acuerdo con lo reglamentado por el Decreto 1230/80.

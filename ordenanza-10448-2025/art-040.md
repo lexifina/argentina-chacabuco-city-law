@@ -1,0 +1,1 @@
+ARTICULO Nº 40: La Cooperativa Eléctrica de Chacabuco Ltda., percibirá los importes de la Tasa en nombre y representación de la Municipalidad de Chacabuco y con obligación de rendir cuenta dentro de los diez (10) días y transferir los fondos dentro de los 7 días de su recaudación, actuando únicamente como agente de percepción.

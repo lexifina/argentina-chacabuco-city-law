@@ -1,0 +1,2 @@
+ARTICULO Nº58: Las eximiciones establecidas en el presente capítulo a las personas físicas, serán personales e intransferibles, y caducarán con la muerte o cambio de la situación económica del beneficiario. Se otorgarán a petición del interesado y por ejercicio fiscal, debiendo concurrir anualmente al municipio el beneficiario, o persona debidamente autorizada, a fin de acreditar las condiciones que permitieron obtener el beneficio.
+CAPITULO 24º: OTRAS DISPOSICIONES
