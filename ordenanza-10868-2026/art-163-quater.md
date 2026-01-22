@@ -1,0 +1,5 @@
+ARTICULO 163 QUATER: MULTAS.
+1. Establécese a partir enero 2026 una multa por demolición no declarada (clandestina) equivalente a dos veces la tasa que se abonaría por obra nueva de demolición según Art. 23Bis de ordenanza Impositiva 2026.
+2. Establécese a partir de enero 2026 una multa por exceso en indicador urbanístico FOS de 3 (tres) veces de lo que corresponde por obra nueva en concepto de derecho de construcción por cantidad de metros cuadrados (m2) excedidos.
+3. Establécese a partir de enero 2026 una multa por exceso en indicador urbanístico FOT de 3 (tres) veces lo que corresponde por obra nueva en concepto de derecho de construcción por cantidad de metros cuadrados (m2) excedidos. No resultaran alcanzadas por esta multa las viviendas únicas familiares.
+4. Establécese a partir de enero 2026 una multa por exceso de Densidad equivalente a lo que corresponde por obra nueva en concepto de derecho de construcción, considerando una base obtenida del producto de la cantidad de habitantes excedidos por 12m2 por cada uno. No resultaran alcanzadas por esta multa las viviendas únicas familiares.
