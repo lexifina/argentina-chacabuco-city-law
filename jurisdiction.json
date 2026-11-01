@@ -1,0 +1,11 @@
+{
+  "path": "ar-b-chacabuco",
+  "code": "AR-B-CHACABUCO",
+  "name": "Chacabuco",
+  "level": "municipality",
+  "parent": "ar-b",
+  "repo": "https://github.com/lexifina/argentina-chacabuco-city-law",
+  "build": "built: municipal ordinances (203 ordinances, 203 versions) from https://sibom.slyt.gba.gob.ar/cities/30",
+  "language": "es",
+  "sources": 1
+}

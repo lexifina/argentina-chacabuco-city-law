@@ -1,0 +1,2847 @@
+{
+ "country": "AR-B-CHACABUCO",
+ "acts": [
+  {
+   "slug": "ordenanza-9995-2024",
+   "short": "Ordenanza 9995/2024",
+   "title": "Ordenanza 9995/2024: Autorizase a la “Subsecretaria de Cultura y DDHH”, y en su representación,Profesora Julieta Pederzoli, DNI 25.817.778 el Uso del Espacio Público, y corte de calle Avenida Alsina del Nº 0 al 50 (entre San Martin y Belgran",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/10417/contents/2038845",
+   "versions": [
+    {
+     "from": "2024-05-16",
+     "units": 5,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/10417/contents/2038845",
+     "sha256": "bf7a8caea80f9f7524ae8902d2b99b0fe560f571bff4229ac84525855ddff463"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-10022-2024",
+   "short": "Ordenanza 10022/2024",
+   "title": "Ordenanza 10022/2024: Autorizase a la “Dirección de Juventud”, y en su representación, Profesor Mariano Riva DNI 36.987.763, el Uso del Espacio Público, en Plaza Gral. San Martín el día sábado 02 de marzo de 2024, de las 23:00 hs a 04:00 hs. ",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/10767/contents/2065392",
+   "versions": [
+    {
+     "from": "2024-07-11",
+     "units": 5,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/10767/contents/2065392",
+     "sha256": "f13af50e64200ad55b90f280556cfe72ec43c2f59d50a4b477c4c2a98524158c"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-10025-2024",
+   "short": "Ordenanza 10025/2024",
+   "title": "Ordenanza 10025/2024: ARTICULO 1º: Autorizase al “Club Atlético y Cultural San Martín”, y en su representación a su Presidente Hernán González DNI 29.098.723, la excepción a la Ordenanza Nº 4915/09 y su modificatoria Ordenanza Nº 7112/17, par",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/10767/contents/2065398",
+   "versions": [
+    {
+     "from": "2024-07-11",
+     "units": 6,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/10767/contents/2065398",
+     "sha256": "562e991709ac8ee5950d32c07391a8908cdba794810b5fa9772d13f6d1016c21"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-10031-2024",
+   "short": "Ordenanza 10031/2024",
+   "title": "Ordenanza 10031/2024: Autorizase a Ingeniería del Suelo S.R.L, y en representación al Ingeniero Juan Zabala, el uso de espacio público para trabajos en la vía pública, extensión de red de gas natural en calles que a continuación se detallan:",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/10767/contents/2065411",
+   "versions": [
+    {
+     "from": "2024-07-11",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/10767/contents/2065411",
+     "sha256": "a8aea070904da13460baeea0605dd64abe485ff24f2be05a66901b69dd10993f"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-10040-2024",
+   "short": "Ordenanza 10040/2024",
+   "title": "Ordenanza 10040/2024: Declárese a Sebastián Poltrone, personalidad destacada de la Ciudad de Chacabuco por sus destacadas actuaciones y logros deportivos, su profesionalismo y dedicación al deporte y su comportamiento en cada evento que repre",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/10767/contents/2065432",
+   "versions": [
+    {
+     "from": "2024-07-11",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/10767/contents/2065432",
+     "sha256": "72e9b8783cc806d9af3efcbd4cb962b6ba420a505ba2bc094c7103290bd4f398"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-10041-2024",
+   "short": "Ordenanza 10041/2024",
+   "title": "Ordenanza 10041/2024: Declárese en el Partido de Chacabuco la “Semana de la Endometriosis” en concordancia con el 14 de marzo declarado “Día Mundial de la Endometriosis” por la Organización Mundial de la Salud.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/10767/contents/2065435",
+   "versions": [
+    {
+     "from": "2024-07-11",
+     "units": 5,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/10767/contents/2065435",
+     "sha256": "4999b63fee9592eb05a6427fb799218a9a8692ff1adc447a76d27a50c0436a42"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-10042-2024",
+   "short": "Ordenanza 10042/2024",
+   "title": "Ordenanza 10042/2024: Autorícese a la Comisión de Memoria Verdad y Justicia Chacabuco, el Uso del Espacio Público, en el punto de la Memoria de la Plaza Gral. San Martín, de la ciudad de Chacabuco, el día 24 de marzo de 2024, en el horario de",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/10767/contents/2065437",
+   "versions": [
+    {
+     "from": "2024-07-11",
+     "units": 8,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/10767/contents/2065437",
+     "sha256": "b30b4a56c4edad7cd39208c05d9bbc626b3d97e475748aa3f308f220c755807a"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-10046-2024",
+   "short": "Ordenanza 10046/2024",
+   "title": "Ordenanza 10046/2024: Autorizase a la “Subsecretaria de Cultura y DDHH”, y en su representación, Profesora Julieta Pederzoli, DNI 25.817.778, el Uso del Espacio Público, y Corte de Calle Prof. Oscar Melli entre Calle Sin Nombre y Estela Emma ",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/10767/contents/2065445",
+   "versions": [
+    {
+     "from": "2024-07-11",
+     "units": 5,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/10767/contents/2065445",
+     "sha256": "f2bed105a1863503137a9fe678af1bbad013619544ff99306fa0bc59dd1e6ee8"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-10049-2024",
+   "short": "Ordenanza 10049/2024",
+   "title": "Ordenanza 10049/2024: Autorizase el Uso de Espacio Público para la construcción de una Rampa sito en calle Coronel Suarez Nº 255, de la ciudad de Chacabuco, de acuerdo a lo solicitado por la vecina Inés Danny De Titto (DNI 5.799.783).",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/10767/contents/2065499",
+   "versions": [
+    {
+     "from": "2024-07-11",
+     "units": 5,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/10767/contents/2065499",
+     "sha256": "500f76615e16ce1cbd3f9526a9ecbda0928e7f8758197be3860b2049d2caa0bf"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-10056-2024",
+   "short": "Ordenanza 10056/2024",
+   "title": "Ordenanza 10056/2024: Autorizase a la Sociedad de Bomberos Voluntarios de Chacabuco, y en representación a su Jefe de Cuerpo Activo Esteban Callone, el uso del Espacio Público en Plaza San Martín intersección de calle San Martín y Avenida Als",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/10767/contents/2065515",
+   "versions": [
+    {
+     "from": "2024-07-11",
+     "units": 5,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/10767/contents/2065515",
+     "sha256": "31209b283571c4c2d0a901d0c6d38bd375b1b963564ab8b2b31004ef0338dee5"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-10060-2024",
+   "short": "Ordenanza 10060/2024",
+   "title": "Ordenanza 10060/2024: Autorizase a la Agrupación Atlética Chacabuco, y en su representación su Presidente Sergio Witting, el Uso del Espacio Público y corte de calles el día 07 de Abril de 2024 de la Ciudad de Chacabuco (B), en el horario de ",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/10767/contents/2065524",
+   "versions": [
+    {
+     "from": "2024-07-11",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/10767/contents/2065524",
+     "sha256": "5aa4a140eb45c93fa286250a3077da987d051fe28151fedb28c15a738a4f0d6c"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-10081-2024",
+   "short": "Ordenanza 10081/2024",
+   "title": "Ordenanza 10081/2024: Otórguese la Excepción la Ordenanza de Zonificación según Usos Nº 7497/18 Decreto Prov. Nº 61/19, de uso conforme al Sr. Nanni Fabricio Lisandro Ariel D.N.I. 45.983.904 en el Rubro Taller Mecánico “Los Nanni”, sito en Av",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/10933/contents/2079370",
+   "versions": [
+    {
+     "from": "2024-07-28",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/10933/contents/2079370",
+     "sha256": "f5610b1ef8c16589b624f70faa661701dbef8cd09abdfd571738661862e182a5"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-10087-2024",
+   "short": "Ordenanza 10087/2024",
+   "title": "Ordenanza 10087/2024: Declárese de Interés Social la Escrituración del Inmueble de la Sra. Elsa Rosalía Villalba DNI 17.144.990, cuya Nomenclatura Catastral es la siguiente: Circunscripción I, Sección K, Quinta 763, Mz 763-h, Parcela 04, de l",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/10933/contents/2079386",
+   "versions": [
+    {
+     "from": "2024-07-28",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/10933/contents/2079386",
+     "sha256": "d6a4f46347fb659db2361c38d20d8e94374637b87577a87a6ed3308d802170b4"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-10088-2024",
+   "short": "Ordenanza 10088/2024",
+   "title": "Ordenanza 10088/2024: Autorizase al Departamento Ejecutivo Municipal, a la Licitación Privada Nº 04/2024 para la contratación del Servicio de Comodato de Sistema de Botones Antipánicos, como única oferente a la Empresa Prosat S.R.L., por un i",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/10933/contents/2079388",
+   "versions": [
+    {
+     "from": "2024-07-28",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/10933/contents/2079388",
+     "sha256": "78ff64c735f57ada3f57ba46fa367ea87cfaaa636d1db4b30d3ce70876520ccf"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-10089-2024",
+   "short": "Ordenanza 10089/2024",
+   "title": "Ordenanza 10089/2024: Convalidación Contrato de Locación, suscripto entre la Municipalidad de Chacabuco y el Sr. Ábalo Mario Jorge DNI 8.486.308, por el alquiler del inmueble ubicado en Avenida Saavedra Nº 170 de la ciudad de Chacabuco, para ",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/10933/contents/2079390",
+   "versions": [
+    {
+     "from": "2024-07-28",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/10933/contents/2079390",
+     "sha256": "5760a8933fe58dfe3d9ba8ed127bd39918713a81cae156d1acde0de8ea9de4e6"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-10091-2024",
+   "short": "Ordenanza 10091/2024",
+   "title": "Ordenanza 10091/2024: Reconózcase al Ingeniero Oscar Abatangelo Oscar Horacio, CUIT 20106631965, la deuda correspondiente a los honorarios durante el ejercicio del año 2023 por el monto de la suma de Pesos Trescientos Ochenta y Nueve Mil Nove",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/10933/contents/2079397",
+   "versions": [
+    {
+     "from": "2024-07-28",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/10933/contents/2079397",
+     "sha256": "b15e24e8c8a3d283a352b3b4822e072d532c89a181dd2538979cdbc16c9b21c0"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-10099-2024",
+   "short": "Ordenanza 10099/2024",
+   "title": "Ordenanza 10099/2024: Autorizase a la “Subsecretaria de Desarrollo Social” y en su representación a la Subsecretaria Lic. Yanina Ransan, el Uso del Espacio Público y corte del tránsito vehicular en calle Alte. Brown Nº 173 entre Mendoza y Ave",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/10933/contents/2079429",
+   "versions": [
+    {
+     "from": "2024-07-28",
+     "units": 5,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/10933/contents/2079429",
+     "sha256": "ef559d2d9eee925eaf8fc2e4635762b6b47cf5e5ee405ab67e605414ce086244"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-10102-2024",
+   "short": "Ordenanza 10102/2024",
+   "title": "Ordenanza 10102/2024: Declárese a Juan Ignacio Rubini, personalidad destacadas del deporte de la ciudad de Chacabuco por sus actuaciones y logros deportivos, su profesionalismo y dedicación al pádel, y su representación ejemplar de la comunid",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/10933/contents/2079453",
+   "versions": [
+    {
+     "from": "2024-07-28",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/10933/contents/2079453",
+     "sha256": "dceba205f9a20a85adb0da79b562b769f2218191fffc47916b0642746c7e076a"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-10105-2024",
+   "short": "Ordenanza 10105/2024",
+   "title": "Ordenanza 10105/2024: Declárese de interés Legislativo la obra “Imposible escribir una línea completa” que se llevara a cabo el sábado 11 de mayo a las 21:00, en la Escuela de Actividades Culturales (EAC) de nuestra ciudad.-",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/10933/contents/2079463",
+   "versions": [
+    {
+     "from": "2024-07-28",
+     "units": 6,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/10933/contents/2079463",
+     "sha256": "fe504829825cec8027f6eeae42d3ee8729205e6f51ec9c9007a7bafe7596f7d8"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-10110-2024",
+   "short": "Ordenanza 10110/2024",
+   "title": "Ordenanza 10110/2024: Autorizase al Director de Desarrollo Agrario, el Sr. Pablo Meizoso DNI 24.728.197, el Uso del Espacio Público en Plaza General San Martín de la ciudad de Chacabuco, los días; sábado 18 de mayo y el día domingo 19 de mayo",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/10990/contents/2082179",
+   "versions": [
+    {
+     "from": "2024-08-22",
+     "units": 6,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/10990/contents/2082179",
+     "sha256": "5af91f3103589d5c61ea095bceb904fcb9e3da7237d4840ef8e1d30999f7868e"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-10111-2024",
+   "short": "Ordenanza 10111/2024",
+   "title": "Ordenanza 10111/2024: Autorizase a la Dirección de Deportes, el Uso del Espacio Público en calle San Martín y Primera Junta de la ciudad de Chacabuco, el día sábado 18 de mayo de mayo.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/10990/contents/2082182",
+   "versions": [
+    {
+     "from": "2024-08-22",
+     "units": 6,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/10990/contents/2082182",
+     "sha256": "41bc763fd6fb41a4d0476867c0b5d355b3b759671a09e99dde1aacedc9455dd0"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-10113-2024",
+   "short": "Ordenanza 10113/2024",
+   "title": "Ordenanza 10113/2024: Autorizase al Director de Desarrollo Agrario, el Sr. Pablo Meizoso DNI 24.728.197, el Uso del Espacio Público en Plaza Belgrano, el día 4 de mayo de 2024, en el horario comprendido desde las 8:00 horas hasta las 14:00 ho",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/10990/contents/2082200",
+   "versions": [
+    {
+     "from": "2024-08-22",
+     "units": 6,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/10990/contents/2082200",
+     "sha256": "42a0c226ae8fa1b9ecda493d735eb667714cd8117bd2fd860380fff7f20392cc"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-10116-2024",
+   "short": "Ordenanza 10116/2024",
+   "title": "Ordenanza 10116/2024: Autorícese a la Sra. Jorgelina Petruchelli, DNI 26.225.715, a realizar la poda de un árbol ubicado en calle Pringles Nº 232, de la ciudad de Chacabuco, y al corte vehicular de calle Pringles entre Salta y San Luis, el dí",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/10990/contents/2082208",
+   "versions": [
+    {
+     "from": "2024-08-22",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/10990/contents/2082208",
+     "sha256": "b01d01294838f88388288146fdab804207521a6ea6eda4234a421eb3b2ca3b37"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-10121-2024",
+   "short": "Ordenanza 10121/2024",
+   "title": "Ordenanza 10121/2024: Autorizase a la “Unidad Sanitaria Móvil”, en su representación a la Sra. Carla Gómez DNI 30.772.684, el Uso del Espacio Público en el Centro de Atención Primaria de la Salud Dr. René Favaloro ubicado en calle Ituzaingo I",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/10990/contents/2082219",
+   "versions": [
+    {
+     "from": "2024-08-22",
+     "units": 6,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/10990/contents/2082219",
+     "sha256": "28b11449728b0308a9b9c8c3925d9d6e9f9f3e2416a93a9870404e483a6c7360"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-10135-2024",
+   "short": "Ordenanza 10135/2024",
+   "title": "Ordenanza 10135/2024: Autorizase a la “Subsecretaria de Cultura y DDHH”, el Uso del Espacio Público y corte de Tránsito Vehicular en las siguientes calles;",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/11134/contents/2093873",
+   "versions": [
+    {
+     "from": "2024-08-30",
+     "units": 7,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/11134/contents/2093873",
+     "sha256": "c571a8454169ee284e9c6b2252d32e3865e9279a3f3720a060529285d5c6bdca"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-10139-2024",
+   "short": "Ordenanza 10139/2024",
+   "title": "Ordenanza 10139/2024: Autorizase a la Sociedad de Bomberos Voluntarios de Chacabuco, y en representación de la misma, a su Presidente Marcelo Cuozzo, y al Jefe del Cuerpo Activo, el Sr. Esteban Cipollone, el Uso del Espacio Público y Corte de",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/11134/contents/2093893",
+   "versions": [
+    {
+     "from": "2024-08-30",
+     "units": 6,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/11134/contents/2093893",
+     "sha256": "57e6981d88d2b4d22adaadadc8394adc30af64d8c3559a04ccc089ca5e97500e"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-10141-2024",
+   "short": "Ordenanza 10141/2024",
+   "title": "Ordenanza 10141/2024: Autorizase al Director de Desarrollo Agrario, el Sr. Pablo Meizoso DNI 24.728.197, el Uso del Espacio Público en Plaza 5 de Agosto de la ciudad de Chacabuco, el día 8 de junio de 2024, en el horario comprendido desde las",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/11134/contents/2093902",
+   "versions": [
+    {
+     "from": "2024-08-30",
+     "units": 6,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/11134/contents/2093902",
+     "sha256": "35e5f9a2f83c5269a36ec93ebf86d68557cf9e9f405739a6b7845ef405023999"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-10142-2024",
+   "short": "Ordenanza 10142/2024",
+   "title": "Ordenanza 10142/2024: Autorizase a la Arquitecta Carolina Andriola (DNI 32.772.589), el Uso del Espacio Público y corte de tránsito vehicular en calle Rivadavia N° 94, entre (Italia y Sarmiento -media calzada) de la ciudad de Chacabuco,",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/11134/contents/2093908",
+   "versions": [
+    {
+     "from": "2024-08-30",
+     "units": 6,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/11134/contents/2093908",
+     "sha256": "b7634dfe68b18f223efa2465eaf57ba38c72f653c39073a0c036bc1fb20f2fc8"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-10143-2024",
+   "short": "Ordenanza 10143/2024",
+   "title": "Ordenanza 10143/2024: Autorizase al Sr. Santiago Carnaghi, DNI: 27.386.390, el Uso del Espacio Público, en calle Mitre Nº 188 de la ciudad de Chacabuco, el día 11 de junio de 2024, en el horario de 09:00 hs. a 15:00 hs.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/11134/contents/2093911",
+   "versions": [
+    {
+     "from": "2024-08-30",
+     "units": 6,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/11134/contents/2093911",
+     "sha256": "49a13ab1d7e7a66c14317bd34b4cca268567277ec2d7864c44bd5a6872133639"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-10144-2024",
+   "short": "Ordenanza 10144/2024",
+   "title": "Ordenanza 10144/2024: Autorizase a la Dirección de Deportes, y en su representación al Prof. Jorge Giménez, el Uso del Espacio Público y corte vehicular en calle 9 de Julio entre Ullua y calle 328 de la ciudad de Chacabuco, los días 14, 15, 1",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/11134/contents/2093914",
+   "versions": [
+    {
+     "from": "2024-08-30",
+     "units": 7,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/11134/contents/2093914",
+     "sha256": "037e4949a234cc3b76fb3c61db38cd719942427575592fd7fcd1ea8910809436"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-10147-2024",
+   "short": "Ordenanza 10147/2024",
+   "title": "Ordenanza 10147/2024: Declárese de Interés Social la Escrituración de Inmueble del Sr. Pedro Reyes Villegas DNI 12.217.138, cuya Nomenclatura Catastral es la siguiente: Circunscripción I, Sección J, Quinta 643, Mz 643-e, Parcela 05, de la Ciu",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/11134/contents/2093935",
+   "versions": [
+    {
+     "from": "2024-08-30",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/11134/contents/2093935",
+     "sha256": "904976a844e8c75298222d8adfe27207ecc6b79c93eeafdd9eca3ecd626ebf72"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-10152-2024",
+   "short": "Ordenanza 10152/2024",
+   "title": "Ordenanza 10152/2024: Convalidase el contrato de Prestación de Servicios, celebrado entre la Municipalidad de Chacabuco, representada por el Dr. Rubén Darío Golia y Rocío Belén Tilli, por la contratación del servicio en su condición de Trabaj",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/11134/contents/2094000",
+   "versions": [
+    {
+     "from": "2024-08-30",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/11134/contents/2094000",
+     "sha256": "130a0ee9f5469edb0422bf8e2b4f650c093bcf56dc1a7d1f39d084df325236ca"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-10156-2024",
+   "short": "Ordenanza 10156/2024",
+   "title": "Ordenanza 10156/2024: Autorizase a Ingeniería del Suelo S.R.L, y en representación de la misma al Ingeniero Juan Zabala, el uso de espacio público para apertura de zanjas y ocupación de la vía pública para extensión de red de gas natural en c",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/11134/contents/2094015",
+   "versions": [
+    {
+     "from": "2024-08-30",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/11134/contents/2094015",
+     "sha256": "f173fd79936e60317d23020d9619e881994273f3e798539d35eb63cd866c63eb"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-10159-2024",
+   "short": "Ordenanza 10159/2024",
+   "title": "Ordenanza 10159/2024: Autorizase al Departamento Ejecutivo Municipal, a adjudicar la Licitación Privada Nº 5/2024, para la contratación de Viandas del “Programa Abuelos”, por un monto de $ 14.625.000,00 (pesos catorce millones, seiscientos ve",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/11134/contents/2094034",
+   "versions": [
+    {
+     "from": "2024-08-30",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/11134/contents/2094034",
+     "sha256": "3a4592745bb525f83b864d27355974488f2bfc2a67b3f6e329cdf6c8b4468577"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-10168-2024",
+   "short": "Ordenanza 10168/2024",
+   "title": "Ordenanza 10168/2024: Otórguese el uso de espacio público a SkyNet, representado por el Arq. Mauro Zaretti, RZ NET S.A Cuit 30-71695962-3, a fin de ampliar la estructura de red de fibra óptica de acuerdo a la presente reglamentación.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/11134/contents/2094065",
+   "versions": [
+    {
+     "from": "2024-08-30",
+     "units": 8,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/11134/contents/2094065",
+     "sha256": "26be64a73a02b858e7eeb045cb1e671fb4ad7a462876d09ecef44f9a3624582f"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-10171-2024",
+   "short": "Ordenanza 10171/2024",
+   "title": "Ordenanza 10171/2024: Autorizase a la Cámara Comercio e Industria de Chacabuco, y en su representación a su Presidente Oscar Álvarez, desestimar el uso de Ciclovías y permitir el estacionamiento de automóviles en un radio de 300 mts. de Aveni",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/11190/contents/2096988",
+   "versions": [
+    {
+     "from": "2024-09-19",
+     "units": 6,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/11190/contents/2096988",
+     "sha256": "a5c7da5b36f5415eb6c8776796ad4802d34ae711b29b26a390c76ef47307e7bd"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-10174-2024",
+   "short": "Ordenanza 10174/2024",
+   "title": "Ordenanza 10174/2024: Autorizase al Sr. Lucas Bernetchegaray DNI: 28.879.779, y en representación de la firma Construcciones New Life, el Uso del Espacio Público, en Avenida Alsina Nº 1 de la ciudad de Chacabuco, el día Viernes 21 de junio, e",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/11190/contents/2097006",
+   "versions": [
+    {
+     "from": "2024-09-19",
+     "units": 6,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/11190/contents/2097006",
+     "sha256": "da3b5fce32a1daabdcbb64e89222d30c9d36a61ff2a6e1e96b4f480e03e62671"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-10177-2024",
+   "short": "Ordenanza 10177/2024",
+   "title": "Ordenanza 10177/2024: Autorizase a la Subsecretaria de Cultura DD HH, el Uso del Espacio Público en Plaza G. San Martín, de la Localidad de O´Higgins, y corte de tránsito vehicular de la calle Levalle entre Sarmiento y Alsina (Frente a la Del",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/11190/contents/2097181",
+   "versions": [
+    {
+     "from": "2024-09-19",
+     "units": 7,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/11190/contents/2097181",
+     "sha256": "645e3a115cef8d5ce712cdaf08634c30fbf373803b061c53aaeb63addc35f39d"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-10201-2024",
+   "short": "Ordenanza 10201/2024",
+   "title": "Ordenanza 10201/2024: Autorizase al Sr. Brian Dámico, DNI 39.802.141, el Uso del Espacio Público en la vereda del Parque Temático Municipal, de la ciudad de Chacabuco.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/11335/contents/2110301",
+   "versions": [
+    {
+     "from": "2024-10-11",
+     "units": 6,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/11335/contents/2110301",
+     "sha256": "036d15f226c7c0f5b4e08f25f37bed51b975585dc116c85ce837fa535859d64b"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-10202-2024",
+   "short": "Ordenanza 10202/2024",
+   "title": "Ordenanza 10202/2024: Autorizase a la Sra. Daiana Micaela Felice, en representación del Local “HELLO” CUIT: 27-33546940-8, el Uso del Espacio Público en la vereda del local, calle Avenida Alsina Nº 89. Los días: Viernes 19 de julio de 2024.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/11335/contents/2110306",
+   "versions": [
+    {
+     "from": "2024-10-11",
+     "units": 6,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/11335/contents/2110306",
+     "sha256": "84ba4aa818d7f88a6013f8cd5bce74435470cb3203dc8c6630216a1567e3ff5a"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-10203-2024",
+   "short": "Ordenanza 10203/2024",
+   "title": "Ordenanza 10203/2024: Autorizase a la Sra. Andrea Paola Méndez (DNI 27.461.089), Agustina Godoy, Ignacio Dugo, Yesica Acosta y Azul Riquelme (grupo de padres), el Uso del Espacio Público en la Plaza 5 de Agosto de la ciudad de Chacabuco, para",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/11335/contents/2110314",
+   "versions": [
+    {
+     "from": "2024-10-11",
+     "units": 6,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/11335/contents/2110314",
+     "sha256": "f59019d9a4d54e4c14b115b4755195a6b660f98847e38ff67ba9fc99a9f567db"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-10205-2024",
+   "short": "Ordenanza 10205/2024",
+   "title": "Ordenanza 10205/2024: Autorizase a la Sub- Secretaria de Cultura DDHH, el Uso del Espacio Público y corte de tránsito vehicular de la calle Villegas entre Carlos Gardel y Cadelago. (Parque Temático Municipal).",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/11335/contents/2110326",
+   "versions": [
+    {
+     "from": "2024-10-11",
+     "units": 6,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/11335/contents/2110326",
+     "sha256": "3840e47c96f23d2c67145de611d4a9dd7a954affcfd123a3f2a4d9062230a37a"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-10207-2024",
+   "short": "Ordenanza 10207/2024",
+   "title": "Ordenanza 10207/2024: Autorizase a “Dirección de Juventud”, el Uso del Espacio Público y corte del tránsito vehicular, en Plaza G. S. Martín, calles: Belgrano y San Martín, Pueyrredón y Alte. Brown entre Padre Doglia y Reconquista de la ciuda",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/11335/contents/2110347",
+   "versions": [
+    {
+     "from": "2024-10-11",
+     "units": 6,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/11335/contents/2110347",
+     "sha256": "17f89a642a92fe5f993bdbe0309544593b45d096fa1187ba03f3d71e5a33a659"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-10208-2024",
+   "short": "Ordenanza 10208/2024",
+   "title": "Ordenanza 10208/2024: Autorizase a la Sub- Secretaria de Cultura y DDHH, el Uso del Espacio Público y corte de tránsito vehicular en calle Reconquista (entre San Martín y Pueyrredón), de la ciudad de Chacabuco, en (Vereda frente Palacio Munic",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/11335/contents/2110362",
+   "versions": [
+    {
+     "from": "2024-10-11",
+     "units": 11,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/11335/contents/2110362",
+     "sha256": "636b7cbf8c7657341eb5979ccb421c9f5b81ab3d019701078e12620bb6d05fbd"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-10214-2024",
+   "short": "Ordenanza 10214/2024",
+   "title": "Ordenanza 10214/2024: Autorizase al Sr. Lucas Casino DNI: 27.224.757 (Licuados, Tragos Tutti Fruti) la excepción a la Ordenanza Nº 4915/09 y su modificatoria Ordenanza Nº 7112/17, para la venta de bebidas alcohólicas en Plaza San Martin, los ",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/11335/contents/2110460",
+   "versions": [
+    {
+     "from": "2024-10-11",
+     "units": 5,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/11335/contents/2110460",
+     "sha256": "ba22ebbde3c5936b232fca9f0a0312221c718e08f7b0578487bb19fbc451ce75"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-10215-2024",
+   "short": "Ordenanza 10215/2024",
+   "title": "Ordenanza 10215/2024: Autorizase a Maldita Birra (Cerveza Artesanal), y en representación al Sr. Emanuel Milione DNI: 34.240.814) la excepción a la Ordenanza Nº 4915/09 y su modificatoria Ordenanza Nº 7112/17, para la venta de bebidas alcohól",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/11335/contents/2110462",
+   "versions": [
+    {
+     "from": "2024-10-11",
+     "units": 5,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/11335/contents/2110462",
+     "sha256": "d9648b36030646ca9b26ec3bf7e57c82ec1f9dbe6e2dbe0a31e8df6881521099"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-10218-2024",
+   "short": "Ordenanza 10218/2024",
+   "title": "Ordenanza 10218/2024: Autorizase al Sr. Pedro Rodríguez DNI 21.647.949, (Cerveza Artesanal “Che Aldo”) la excepción a la Ordenanza Nº 4915/09 y su modificatoria Ordenanza Nº 7112/17, para la venta de bebidas alcohólicas en Plaza San Martin, l",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/11335/contents/2110479",
+   "versions": [
+    {
+     "from": "2024-10-11",
+     "units": 5,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/11335/contents/2110479",
+     "sha256": "299d93040982a673dc9b285d5779a1fc5c77245a29ed14c8f7f1f260f3c385bd"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-10229-2024",
+   "short": "Ordenanza 10229/2024",
+   "title": "Ordenanza 10229/2024: Autorícese a la Empresa Telefónica Móviles Argentina S.A.- Movistar, y en su representación a la empresa contratista PLANTEL, el Uso del Espacio Público para tareas de mantenimiento, consistente en el desmonte de cables ",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/11335/contents/2110565",
+   "versions": [
+    {
+     "from": "2024-10-11",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/11335/contents/2110565",
+     "sha256": "91311ce1f022fbc60667255b39a0a9fddc7b1a195dac2d920607eec44d12b519"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-10232-2024",
+   "short": "Ordenanza 10232/2024",
+   "title": "Ordenanza 10232/2024: Reconózcase, desde este Cuerpo Deliberativo a Ambra Marsiletti por su destacada participación en el Torneo Internacional de Tenis Femenino \"Copa Ciudad de Chacabuco\".-",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/11335/contents/2110600",
+   "versions": [
+    {
+     "from": "2024-10-11",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/11335/contents/2110600",
+     "sha256": "d1ca0a86a91d229fb8ad3712cefe0d546b48f636517ded197995c7d72d4d5a3d"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-10239-2024",
+   "short": "Ordenanza 10239/2024",
+   "title": "Ordenanza 10239/2024: Autorizase a la “Subsecretaria de Cultura y DDHH”, y en su representación a la Subsecretaria, Prof. Julieta Pederzoli DNI 25.817.778, el Uso del Espacio Público en Plaza San Martín, de la ciudad de Chacabuco, el día 17 d",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/11335/contents/2109728",
+   "versions": [
+    {
+     "from": "2024-10-11",
+     "units": 8,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/11335/contents/2109728",
+     "sha256": "f08410f0c8b16cc9b19eef3785bdc08caf6ab5e183863e502818ff33c9858eed"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-10241-2024",
+   "short": "Ordenanza 10241/2024",
+   "title": "Ordenanza 10241/2024: Declárese de Interés Social la Escrituración de Inmueble del Sr. JUAN BAUTISTA TRIBERTI DNI 41.007.782, cuya Nomenclatura Catastral es la siguiente: Circunscripción I, Sección K, Quinta 801, Mz 801-b, Parcela 12, de la C",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/11335/contents/2109733",
+   "versions": [
+    {
+     "from": "2024-10-11",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/11335/contents/2109733",
+     "sha256": "9ad14b7c572f58bda6e0ef8a563afeb47c399cdcef16ff9a5a4263dd72e0f248"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-10244-2024",
+   "short": "Ordenanza 10244/2024",
+   "title": "Ordenanza 10244/2024: Convalídese el Decreto Municipal Nº 714/24, referente a la ampliación del Cálculo de Recursos correspondiente al Ejercicio 2024, y asígnese la suma de pesos Cien millones ($100.000.000).",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/11335/contents/2110280",
+   "versions": [
+    {
+     "from": "2024-10-11",
+     "units": 5,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/11335/contents/2110280",
+     "sha256": "452ce25bf0b8b0c06b8d61806014355239a410596c15bc35275103abab3d27fa"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-10245-2024",
+   "short": "Ordenanza 10245/2024",
+   "title": "Ordenanza 10245/2024: Autorizase al Director de Desarrollo Agrario, el Sr. Pablo Meizoso DNI 24.728.197, el Uso del Espacio Público en Plaza Necochea de la ciudad de Chacabuco, El día Sábado 14 de Septiembre de 2024. Desde las 08:00 hs hasta ",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/11335/contents/2110283",
+   "versions": [
+    {
+     "from": "2024-10-11",
+     "units": 6,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/11335/contents/2110283",
+     "sha256": "102914b000125099650db4e6ae03f2556a6372a6ac19b1b21a36c597b046cd76"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-10246-2024",
+   "short": "Ordenanza 10246/2024",
+   "title": "Ordenanza 10246/2024: Autorizase a Ingeniería del Suelo S.R.L, y en representación de la misma al Ingeniero Juan Zabala, el uso de espacio público para apertura de zanjas y ocupación de la vía pública para extensión de red de gas natural en c",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/11335/contents/2110284",
+   "versions": [
+    {
+     "from": "2024-10-11",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/11335/contents/2110284",
+     "sha256": "c1201720f739aac426f30328c6be06b0b5a58cbd1473aae36d17587ef8af76fe"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-10257-2024",
+   "short": "Ordenanza 10257/2024",
+   "title": "Ordenanza 10257/2024: Autorizase a la “Subsecretaria de Cultura y DDHH”, el Uso del Espacio Público, en Plaza San Martin de la ciudad de Chacabuco, el día 15 de Septiembre de 2024 desde las 13:00 hs. hasta las 21:00 horas, con motivo a desarr",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/11507/contents/2123963",
+   "versions": [
+    {
+     "from": "2024-11-08",
+     "units": 7,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/11507/contents/2123963",
+     "sha256": "17c76aaa174981f26edc33bb5d17805c786339b12adb4314ecd4b035845fc4aa"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-10258-2024",
+   "short": "Ordenanza 10258/2024",
+   "title": "Ordenanza 10258/2024: Convalídese el Contrato suscripto entre el Sr. Intendente Municipal, Dr. Rubén Darío Golia y la firma Venece Enzo Daniel “SMARTHOUSE”, por la prestación del servicio de mantenimiento, conservación y reparación del Sistem",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/11507/contents/2123966",
+   "versions": [
+    {
+     "from": "2024-11-08",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/11507/contents/2123966",
+     "sha256": "cbd1ee7efbaf54b484abf8bab1e0723af91d970bbfdde56e361c7196b501ecca"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-10260-2024",
+   "short": "Ordenanza 10260/2024",
+   "title": "Ordenanza 10260/2024: Convalidase el convenio celebrado entre la Municipalidad de Chacabuco e YPF S.A., a través del cual se implementa el programa tarjeta “YPF ENRUTA/ YPF RUTA” que es un instrumento de pago que permite a sus titulares a adq",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/11507/contents/2124001",
+   "versions": [
+    {
+     "from": "2024-11-08",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/11507/contents/2124001",
+     "sha256": "668b58beb07a0e176b25aa3de08949f3b5548bbf129ee153296e2b6d6a0b2802"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-10269-2024",
+   "short": "Ordenanza 10269/2024",
+   "title": "Ordenanza 10269/2024: Autorícese a ALCEC CHACABUCO, y en representación al Sr. Marcos Gallina, DNI: 28.871.886, el uso de espacio público en Plaza San Martín y escalinatas de la Municipalidad de Chacabuco, y corte de tránsito vehicular de cal",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/11507/contents/2124028",
+   "versions": [
+    {
+     "from": "2024-11-08",
+     "units": 8,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/11507/contents/2124028",
+     "sha256": "fb5d26909d070c10eac7858c45782bede320069fc34d094b72863fc672dff930"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-10270-2024",
+   "short": "Ordenanza 10270/2024",
+   "title": "Ordenanza 10270/2024: En relación a la nota presentada por el vecino Antonio Puppio, DNI: 4.970.903, ante este Honorable cuerpo, solicitamos que se reconsidere el haber jubilatorio determinado por el Instituto de Previsión Social, teniendo en",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/11507/contents/2124029",
+   "versions": [
+    {
+     "from": "2024-11-08",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/11507/contents/2124029",
+     "sha256": "649a859fc8f2ad86b3168ae63529aa76d052dda395a3484490d57c8872b9544a"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-10271-2024",
+   "short": "Ordenanza 10271/2024",
+   "title": "Ordenanza 10271/2024: Adhiérase la Municipalidad de Chacabuco (B) a la Ley Nacional Nº 26.926, que establece el día 19 de agosto como el “Día Nacional de Lucha contra el Síndrome Urémico Hemolítico” en todo el territorio nacional, con motivo ",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/11507/contents/2124030",
+   "versions": [
+    {
+     "from": "2024-11-08",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/11507/contents/2124030",
+     "sha256": "d730badc0ba0c794bed2d60829bca5b0ff427525a2900798ca3e54b071dd25fe"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-10273-2024",
+   "short": "Ordenanza 10273/2024",
+   "title": "Ordenanza 10273/2024: Convalidase el Contrato de Locación, celebrado entre la Municipalidad de Chacabuco (B), representada por el Sr. Intendente, Dr. Rubén Darío Golia, DNI 22.575.124 y el Sr. Héctor Manuel Francolino, DNI 5.527.137, por el a",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/11507/contents/2124033",
+   "versions": [
+    {
+     "from": "2024-11-08",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/11507/contents/2124033",
+     "sha256": "771d6f01f3ceabafd2a0dc144dce7c1e4461382e31218af2d708b5274fa08f44"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-10279-2024",
+   "short": "Ordenanza 10279/2024",
+   "title": "Ordenanza 10279/2024: Créase en el Partido de Chacabuco el \"Departamento de Medicina del Deporte Municipal\", dependiente de la Secretaría de Salud del Partido de Chacabuco.-",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/11507/contents/2124042",
+   "versions": [
+    {
+     "from": "2024-11-08",
+     "units": 11,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/11507/contents/2124042",
+     "sha256": "e6e44c32465babbbb02efb376f634a606673afd62fd94cfa90add5f34054d18b"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-10281-2024",
+   "short": "Ordenanza 10281/2024",
+   "title": "Ordenanza 10281/2024: Créase la obligación de presentar el “Certificado de Libre Deuda Alimentaria” para quienes deseen ser beneficiarios de lotes o viviendas sociales en el Partido de Chacabuco.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/11507/contents/2124046",
+   "versions": [
+    {
+     "from": "2024-11-08",
+     "units": 6,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/11507/contents/2124046",
+     "sha256": "1e6769d4165d2a6f515a4028921485621774e5847c29b1ac529d4437cd366497"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-10288-2024",
+   "short": "Ordenanza 10288/2024",
+   "title": "Ordenanza 10288/2024: Autorizase al Departamento Ejecutivo Municipal a adjudicar Licitación Privada Nº 10/2024, para la Provisión de oxígeno medicinal a granel y en tubos para el abastecimiento del Hospital Municipal Nuestra Señora del Carmen",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/11507/contents/2124059",
+   "versions": [
+    {
+     "from": "2024-11-08",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/11507/contents/2124059",
+     "sha256": "11b249c06ce88e030b44744295c48b048c14fb612f3b798456990b3458b02503"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-10292-2024",
+   "short": "Ordenanza 10292/2024",
+   "title": "Ordenanza 10292/2024: Autorizase a la Delegación Municipal de Rawson, y en representación de la misma a su Delegado, Gustavo Millán, el Uso del Espacio Público en plaza Gral. San Martín y corte de tránsito vehicular de calles: 25 de Mayo inte",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/11507/contents/2124088",
+   "versions": [
+    {
+     "from": "2024-11-08",
+     "units": 7,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/11507/contents/2124088",
+     "sha256": "82518a301b5011ea16a106797455da56e708721e212e25d3631150142fe415ea"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-10425-2025",
+   "short": "Ordenanza 10425/2025",
+   "title": "Ordenanza 10425/2025: Autorícese a la Dirección de Deportes, y en su representación al Prof. Jorge Giménez DNI Nº 21.443.712, el Uso del Espacio Público y corte vehicular de calle Ullua y calle 9 de Julio, de la ciudad de Chacabuco. Los días ",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/12178/contents/2172188",
+   "versions": [
+    {
+     "from": "2025-02-08",
+     "units": 6,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/12178/contents/2172188",
+     "sha256": "82993da143a46db9da780d476324660b8edba9729fcd36028fddc26c8ba0fca0"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-10431-2025",
+   "short": "Ordenanza 10431/2025",
+   "title": "Ordenanza 10431/2025: Convalídese el contrato celebrado entre la Municipalidad de Chacabuco, representada por el Sr. Intendente Municipal, Dr Rubén Darío Golia, DNI Nº 22.575.124 y la Sra. Verónica Lilian Dorbessan, DNI Nº 21.647.931, para la",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/12178/contents/2172205",
+   "versions": [
+    {
+     "from": "2025-02-08",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/12178/contents/2172205",
+     "sha256": "320ddb7693e013de9cb8af778d991ade12c84b6183c2277c0c7bf3fa3a56cdfc"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-10433-2025",
+   "short": "Ordenanza 10433/2025",
+   "title": "Ordenanza 10433/2025: Declárese de Interés Social la Escrituración de Inmueble de la Sra. MELINA YANEL MURA DNI N° 32.443.667, cuya Nomenclatura Catastral es la siguiente: Circunscripción I, Sección K, Quinta 791, Mz 791a, Parcela 04, de la C",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/12178/contents/2172208",
+   "versions": [
+    {
+     "from": "2025-02-08",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/12178/contents/2172208",
+     "sha256": "befbb1a96072ec9ce5acf0fa0122695a456a4ce5b72f8489319f573102c0dc86"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-10438-2025",
+   "short": "Ordenanza 10438/2025",
+   "title": "Ordenanza 10438/2025: Autorizase a la Vecina Andrea Soledad Sansone DNI 30.772.514, el Uso del Espacio Público y corte de tránsito vehicular en Pasaje Diego Seal entre San Juan y Reconquista de la ciudad de Chacabuco, el día 14 de diciembre d",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/12178/contents/2172213",
+   "versions": [
+    {
+     "from": "2025-02-08",
+     "units": 6,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/12178/contents/2172213",
+     "sha256": "9e6dc6737e6bafc5f7802519b5f209c0c98dc3f1f7a056e7315571fd2f8ac9e3"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-10444-2025",
+   "short": "Ordenanza 10444/2025",
+   "title": "Ordenanza 10444/2025: Autorizase a la vecina Mirta Carina Rubino, DNI 23.291.876, el Uso del Espacio Público y corte del tránsito vehicular de calle Montesano Nº 182 entre calle Entre Rios y Santa Fe, de la ciudad de Chacabuco, el día 15 de e",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/12178/contents/2172221",
+   "versions": [
+    {
+     "from": "2025-02-08",
+     "units": 6,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/12178/contents/2172221",
+     "sha256": "26bef0c1057118f7daa88e17b43dcc913cbbf549b05117fbdcbc20ef29200f90"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-10451-2025",
+   "short": "Ordenanza 10451/2025",
+   "title": "Ordenanza 10451/2025: Reconózcase a la firma “INGENIERO MARTIN ADMIRAAL CONSTRUCCIONES CIVILES S.R.L”., la deuda correspondiente a la obra de construcción de Semicubierto en Delegación de Cucha Cucha, de la ciudad de Chacabuco, por un monto d",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/12178/contents/2172242",
+   "versions": [
+    {
+     "from": "2025-02-08",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/12178/contents/2172242",
+     "sha256": "cc6ec5476a3a2fe4399f9b5978bb227513243de6026b65ced25c45e96248c882"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-10456-2025",
+   "short": "Ordenanza 10456/2025",
+   "title": "Ordenanza 10456/2025: Autorizase a la “Subsecretaria de Cultura y DDHH”, y en su representación, a la Profesora Julieta Pederzoli, DNI 25.817.778, el Uso del Espacio Público, y corte de la Avenida Alsina desde el Nº 0 a Nº 100 y esquina de ca",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/12178/contents/2172251",
+   "versions": [
+    {
+     "from": "2025-02-08",
+     "units": 6,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/12178/contents/2172251",
+     "sha256": "57638963b37ecef7d2554fa0d9eba2ade818c2d1810754ce959b368399598a86"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-10457-2025",
+   "short": "Ordenanza 10457/2025",
+   "title": "Ordenanza 10457/2025: Autorícese al Director de Juventud, Sr. Mariano Riva, DNI: 36.987.763, el uso del espacio público, en plaza San Martin de la ciudad de Chacabuco, los días 8 de enero, 22 de enero, 5 de febrero y 19 de febrero de 2025 en ",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/12178/contents/2172254",
+   "versions": [
+    {
+     "from": "2025-02-08",
+     "units": 8,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/12178/contents/2172254",
+     "sha256": "9fe5a37f925addba37819089f87b5068311834673bdafdd06cafd0c63d41b0cf"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-10461-2025",
+   "short": "Ordenanza 10461/2025",
+   "title": "Ordenanza 10461/2025: Declárese de Interés Social la Escrituración de Inmueble de la Sra. MARIA JOSÉ CALDERERO DNI N° 27.460.858, cuya Nomenclatura Catastral es la siguiente: Circunscripción I, Sección K, Quinta 791, Mz. 791-b, Parcela 14, de",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/12178/contents/2172262",
+   "versions": [
+    {
+     "from": "2025-02-08",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/12178/contents/2172262",
+     "sha256": "53301d2c5b09277e93fff26779af05b5a0c7ac99505a00a120ed2e10dc27801c"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-10467-2025",
+   "short": "Ordenanza 10467/2025",
+   "title": "Ordenanza 10467/2025: Autorizase al Vicepresidente del Partido Justicialista, Lic. Tomas Guido Domínguez DNI: 34.982.498, el Uso del Espacio Público, y Corte de Tránsito Vehicular en Pasaje Beltrán entre calle Zapiola y Alberdi de la ciudad d",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/12178/contents/2172272",
+   "versions": [
+    {
+     "from": "2025-02-08",
+     "units": 6,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/12178/contents/2172272",
+     "sha256": "a400d35fbb59c26b8ff2cea257117dac56d02b2b3841d470f5a55af081308385"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-10471-2025",
+   "short": "Ordenanza 10471/2025",
+   "title": "Ordenanza 10471/2025: Resérvese y delimítese un espacio para Estacionamiento Exclusivo de Motocicletas frente a las instalaciones de la Iglesia Nueva Apostólica, ubicado en calle Salta Nº 179 de la ciudad de Chacabuco. El Departamento Ejecuti",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/12178/contents/2172278",
+   "versions": [
+    {
+     "from": "2025-02-08",
+     "units": 5,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/12178/contents/2172278",
+     "sha256": "282c54d0418f87e30712d87a8cc83affbdf7fcab50ed2930f045c5bac50d6c57"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-10473-2025",
+   "short": "Ordenanza 10473/2025",
+   "title": "Ordenanza 10473/2025: Autorizase a la vecina, Adelia Maria Deleo DNI Nº 2.641.958, referente a la colocación de discos de “Prohibido estacionar” y el pintado de cordón amarillo frente a su domicilio, sito en calle Olavarría Nº 41 de la ciudad",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/12178/contents/2172281",
+   "versions": [
+    {
+     "from": "2025-02-08",
+     "units": 7,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/12178/contents/2172281",
+     "sha256": "7d77694b1d6251d00dfd932bef435b69d429252b843bf07557b5be3a448c29b8"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-10475-2025",
+   "short": "Ordenanza 10475/2025",
+   "title": "Ordenanza 10475/2025: Convalídese el Decreto Municipal Nº 2.073/24, y transfiérase el saldo de las cuentas con afectación especifica 35.1.01.22: Sdo.--------------Ej. Ant. Plan Federal de Viviendas; Por la suma de Pesos: sesenta y tres mil se",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/12178/contents/2172284",
+   "versions": [
+    {
+     "from": "2025-02-08",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/12178/contents/2172284",
+     "sha256": "09265ef6972cdb7aa697e6c2b2608c14fd34aaf638d0e305a61598df3fd4054b"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-10448-2025",
+   "short": "Ordenanza 10448/2025",
+   "title": "Ordenanza 10448/2025: Se establece como fecha de vencimiento de las cuotas mensuales previstas en este capítulo, el día 15 de cada mes o el día hábil inmediato siguiente si éste fuera inhábil.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/12291/contents/2181622",
+   "versions": [
+    {
+     "from": "2025-03-05",
+     "units": 133,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/12291/contents/2181622",
+     "sha256": "0eef28bfc6813b658e3f1285bd519f53240e4cf444ec0f1da556a0511b57aca2"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-10480-2025",
+   "short": "Ordenanza 10480/2025",
+   "title": "Ordenanza 10480/2025: Autorizase a “Dirección de Juventud”, y en su representación al Director Mariano Riva DNI 36.987.763, el Uso del Espacio Público en Plaza General San Martín, los días 19 y 26 de febrero de 2025, en el horario de 23:00 hs",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/12590/contents/2216538",
+   "versions": [
+    {
+     "from": "2025-05-29",
+     "units": 7,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/12590/contents/2216538",
+     "sha256": "ea2cc69c1c3c1832b91d867f749263b2b3f3cc071245e1a80d4d07e899d7e28d"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-10482-2025",
+   "short": "Ordenanza 10482/2025",
+   "title": "Ordenanza 10482/2025: Autorizase a la Asociación Miguel Máximo Gil, y en representación de la misma al Sr. Mariano Camera, DNI Nº 26.811.549, el Uso del Espacio Público y corte vehicular de calle Santa Fe entre calles Alberdi y Zapiola, de la",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/12590/contents/2216559",
+   "versions": [
+    {
+     "from": "2025-05-29",
+     "units": 8,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/12590/contents/2216559",
+     "sha256": "8767203f7a312e448531b1cf4f38b4a74882d96f79e73c2e3100c2073478ff98"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-10497-2025",
+   "short": "Ordenanza 10497/2025",
+   "title": "Ordenanza 10497/2025: Autorizase a la “Subsecretaria de Cultura y DDHH”, y en su representación, Profesora Julieta Pederzoli, DNI 25.817.778, el Uso del Espacio Público y Corte vehicular de esquina de calle Cipriana Depauli Portillo y Francis",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/12590/contents/2216595",
+   "versions": [
+    {
+     "from": "2025-05-29",
+     "units": 7,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/12590/contents/2216595",
+     "sha256": "7646353f41ec24cc86bfb60ed252bc0b8e7db1f144e331431d403ac05eb32046"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-10508-2025",
+   "short": "Ordenanza 10508/2025",
+   "title": "Ordenanza 10508/2025: Autorizase al “Centro Vasco Guillermo Larregui”, y en su representación a su Presidente Juan Cruz Zubeldia DNI 25.475.121, el uso del Espacio Público y corte del Tránsito Vehicular, el día 15 de marzo de 2025, en el hora",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/12590/contents/2216611",
+   "versions": [
+    {
+     "from": "2025-05-29",
+     "units": 5,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/12590/contents/2216611",
+     "sha256": "2e0a77882dd676930b82d4c457885f353bebd8904d9395636b77f1f61e18ffb4"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-10517-2025",
+   "short": "Ordenanza 10517/2025",
+   "title": "Ordenanza 10517/2025: Autorícese a la Dirección de Deportes, y en su representación al Prof. Jorge Giménez, el Uso del Espacio Público y corte vehicular el día viernes 28 de marzo de 2025, en el horario 13:30hs hasta las 17:00hs aprox., del s",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/12590/contents/2216625",
+   "versions": [
+    {
+     "from": "2025-05-29",
+     "units": 6,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/12590/contents/2216625",
+     "sha256": "26cec70c3210e88b0e81f3a46422ee67ace7bfbdaa18efc0959cad2b2db9ee79"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-10523-2025",
+   "short": "Ordenanza 10523/2025",
+   "title": "Ordenanza 10523/2025: Convalídese el Contrato de locación celebrado entre la Municipalidad de Chacabuco, representada en este acto por el Sr. Intendente Municipal, el Dr. Rubén Darío Golia (DNI 22.575.124) y el Sr. Héctor Oscar ALVAREZ, DNI 1",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/12590/contents/2216634",
+   "versions": [
+    {
+     "from": "2025-05-29",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/12590/contents/2216634",
+     "sha256": "17ff8cdc6690c9c6fc0aecc18c1ea35fa2ec67b270c59edc6e97941c2ad6bc14"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-10524-2025",
+   "short": "Ordenanza 10524/2025",
+   "title": "Ordenanza 10524/2025: Autorizase al Departamento Ejecutivo Municipal a adjudicar Licitación Privada Nº 2/2025, para la Provisión de oxígeno medicinal a granel y en tubos para el abastecimiento del Hospital Municipal Nuestra Señora del Carmen ",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/12590/contents/2216636",
+   "versions": [
+    {
+     "from": "2025-05-29",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/12590/contents/2216636",
+     "sha256": "5d2847568090c107558b567ff8804ea510496aa599224ebe3daedf71167850b3"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-10531-2025",
+   "short": "Ordenanza 10531/2025",
+   "title": "Ordenanza 10531/2025: Autorizase a la Escuela Secundaria Nº 9 de Cucha Cucha, y en su representación a la Directora Paola Badarini, el Uso del Espacio Público en la Plaza de la localidad de Cucha Cucha, ubicada entre las calles Belgrano, Erne",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/13158/contents/2252189",
+   "versions": [
+    {
+     "from": "2025-07-27",
+     "units": 6,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/13158/contents/2252189",
+     "sha256": "5aa96a8b617aceeb69861e088e9e6a9305ce434f2c9d308b5a64082781899672"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-10533-2025",
+   "short": "Ordenanza 10533/2025",
+   "title": "Ordenanza 10533/2025: Autorizase a la Sociedad de Fomento “Bernardino Rivadavia”, y en su representación al Presidente de la misma, el Sr. Norberto Roselot (D.N.I. 22.120.974), el Uso del Espacio Público y corte vehicular en calle Rivadavia e",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/13158/contents/2252195",
+   "versions": [
+    {
+     "from": "2025-07-27",
+     "units": 8,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/13158/contents/2252195",
+     "sha256": "b5b6f1d2bf611d58cc462c0eb57d46405c729e0cf3bef3f769ea153a62e2bf00"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-10534-2025",
+   "short": "Ordenanza 10534/2025",
+   "title": "Ordenanza 10534/2025: Autorícese a la Dirección de Deportes, y en su representación al Prof. Gonzalo Correas, el Uso del Espacio Público y corte vehicular el día 11 de mayo de 2025, en el horario 07:30 hasta las 12:00hs, del siguiente recorri",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/13158/contents/2252197",
+   "versions": [
+    {
+     "from": "2025-07-27",
+     "units": 6,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/13158/contents/2252197",
+     "sha256": "668c93a315e507714ff18deeea62ed551df6940519ed51f0b27c4463a7c38b77"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-10535-2025",
+   "short": "Ordenanza 10535/2025",
+   "title": "Ordenanza 10535/2025: Autorícese a la Subsecretaría de Cultura y RRHH, y en su representación a la Prof. Julieta Pederzoli, DNI: 25.817.778, el Uso del Espacio Público en Plaza Manuel Belgrano de la ciudad de Chacabuco, el día 1 de abril de 2",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/13158/contents/2252200",
+   "versions": [
+    {
+     "from": "2025-07-27",
+     "units": 7,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/13158/contents/2252200",
+     "sha256": "207ab5f6345d8205ec5cc96f15858f5e4beaa7ff3e47abe98a625c4a87305d20"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-10538-2025",
+   "short": "Ordenanza 10538/2025",
+   "title": "Ordenanza 10538/2025: Autorizase a la Santiago Carnaghi, DNI: 27.386.390, el Uso del Espacio Público, en calle Mitre Nº 188 de la ciudad de Chacabuco, el día 15 de Abril de 2025, en el horario de 09:00 hs. a 15:00 hs.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/13158/contents/2252260",
+   "versions": [
+    {
+     "from": "2025-07-27",
+     "units": 6,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/13158/contents/2252260",
+     "sha256": "e7942d9435b1a3e1a68754a59fe28f8a9d3bbbb4f51f391b825490b3928cb3ba"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-10540-2025",
+   "short": "Ordenanza 10540/2025",
+   "title": "Ordenanza 10540/2025: Autorizase a la Sra. Ana Clara Mujica, DNI N° 17.528.120, al uso de espacio público para la construcción de una rampa de accesibilidad según los planos presentados en la Farmacia Mujica, ubicada sobre Acceso Elguea Román",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/13158/contents/2252374",
+   "versions": [
+    {
+     "from": "2025-07-27",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/13158/contents/2252374",
+     "sha256": "659df79c8d1f67bd075da9352f2469286c058cdd03bd64287e637dbfb5c651ea"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-10548-2025",
+   "short": "Ordenanza 10548/2025",
+   "title": "Ordenanza 10548/2025: Declárese de Interés Social la Escrituración de Inmueble de la Sra. Sandra Mabel Raymundi DNI Nº 23.284.992 y Hugo Fermín Márquez DNI Nº 17.378.334, cuya Nomenclatura Catastral es la siguiente: Circunscripción I, Sección",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/13158/contents/2252398",
+   "versions": [
+    {
+     "from": "2025-07-27",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/13158/contents/2252398",
+     "sha256": "6308381a98f7b0ab073fb25b917b58ab9bd2217157d4b956a952529b0a1ef4eb"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-10550-2025",
+   "short": "Ordenanza 10550/2025",
+   "title": "Ordenanza 10550/2025: Condonase la deuda correspondiente a las TASAS DE BARRIDO, LIMPIEZA, CONSERVACION DE LA VIA PUBLICA Y SERVICIOS SANITARIOS, oportunamente solicitados por la contribuyente JUAN CARLOS MIRANDA, DNI Nº 4.966.875 y en refere",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/13158/contents/2252401",
+   "versions": [
+    {
+     "from": "2025-07-27",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/13158/contents/2252401",
+     "sha256": "044e81517857898a99e97c93bc2b3122a5e9183a2e67f137ceb4fcb2262d0016"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-10559-2025",
+   "short": "Ordenanza 10559/2025",
+   "title": "Ordenanza 10559/2025: Autorizase a Ingeniería del Suelo S.R.L, y en representación de la misma al Ingeniero Juan Zabala, el uso de espacio público para apertura de zanjas y ocupación de la vía pública para extensión de red de gas natural en c",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/13158/contents/2252423",
+   "versions": [
+    {
+     "from": "2025-07-27",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/13158/contents/2252423",
+     "sha256": "a47b040c0b3bcfc258ee2a013936e3e00650553db55088f415c217545aa64753"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-10568-2025",
+   "short": "Ordenanza 10568/2025",
+   "title": "Ordenanza 10568/2025: Autorizase a la Parroquia Santos Arcángeles, y en su representación al Párroco Raúl Moretto, el Uso del Espacio Público, con motivo de la realización de Viacrucis Interparroquial, el día 18 de abril de 2.025, en el horar",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/13158/contents/2252451",
+   "versions": [
+    {
+     "from": "2025-07-27",
+     "units": 6,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/13158/contents/2252451",
+     "sha256": "008b1dc049b9cf1349205665cf6376452ad8dacb592b2a5da191c8ad6ce18243"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-10570-2025",
+   "short": "Ordenanza 10570/2025",
+   "title": "Ordenanza 10570/2025: Convalídese el convenio suscripto entre la Municipalidad de Chacabuco, representada por el Sr. Intendente Municipal, el Dr. Rubén Darío Golia y el Sr. Ernesto Gustavo Salcedo Souto DNI 28.693.134, que tiene por objeto, l",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/13158/contents/2252457",
+   "versions": [
+    {
+     "from": "2025-07-27",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/13158/contents/2252457",
+     "sha256": "69e8f1898b10e235669e2c5ddae5962cf1831d7aee9f12eab83c1b68f8481ec9"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-10572-2025",
+   "short": "Ordenanza 10572/2025",
+   "title": "Ordenanza 10572/2025: Autorizase al Departamento Ejecutivo Municipal, a adjudicar la Licitación Privada Nº 4/2025, como único oferente que cumple con los requisitos: GEMATEC S.R.L, para la contratación en comodato de los equipos para el funci",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/13158/contents/2252465",
+   "versions": [
+    {
+     "from": "2025-07-27",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/13158/contents/2252465",
+     "sha256": "58b8d1a4ccd648ca35b5b110d4355c3cfde5d27aaeb2025927e2b70766b92995"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-10573-2025",
+   "short": "Ordenanza 10573/2025",
+   "title": "Ordenanza 10573/2025: Apruébese el expediente relacionado con la solicitud para la instalación de reductores de velocidad en inmediaciones del Jardín de Infantes Nº 912, Escuela Primaria Nº 50 y Escuela Secundaria Nº 8, sobre calle Buenos Air",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/13158/contents/2252466",
+   "versions": [
+    {
+     "from": "2025-07-27",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/13158/contents/2252466",
+     "sha256": "49442be515f608c458d29ca3002a75959a9c62ec7d8010eabecd009b0e62afc2"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-10577-2025",
+   "short": "Ordenanza 10577/2025",
+   "title": "Ordenanza 10577/2025: Autorizase el Uso de Espacio Público para la instalación de reductores de velocidad sobre calle 25 de Mayo y su intersección con calle Gutiérrez, de la ciudad de Chacabuco.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/13158/contents/2252479",
+   "versions": [
+    {
+     "from": "2025-07-27",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/13158/contents/2252479",
+     "sha256": "31f66fc898a0c726f94b6be491c222fc953c7e0b7fe306465f3eacf4a3073ea9"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-10581-2025",
+   "short": "Ordenanza 10581/2025",
+   "title": "Ordenanza 10581/2025: Resérvese y delimítese un espacio para demarcación y reserva de estacionamiento exclusivo de motocicletas, frente a las instalaciones de la “Universidad Tecnológica Nacional- Extensión Áulica Chacabuco” ubicada en calle ",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/13158/contents/2252491",
+   "versions": [
+    {
+     "from": "2025-07-27",
+     "units": 5,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/13158/contents/2252491",
+     "sha256": "5f252506d525d9418ca8716b65645838da1b8446820926a6e3800a6b8be024ba"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-10588-2025",
+   "short": "Ordenanza 10588/2025",
+   "title": "Ordenanza 10588/2025: Autorizase a la Parroquia San Isidro Labrador, en su representación al Padre Darío Kling DNI 17.144.815, el Uso del Espacio Público, alrededor de la Plaza General San Martín de la ciudad de Chacabuco, el día 15 de Mayo d",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/13158/contents/2252565",
+   "versions": [
+    {
+     "from": "2025-07-27",
+     "units": 6,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/13158/contents/2252565",
+     "sha256": "9228d553228ff9fc9dcc1cb1865c9669c72b9d484a9a96c7a0b9ebdb1f8df793"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-10592-2025",
+   "short": "Ordenanza 10592/2025",
+   "title": "Ordenanza 10592/2025: Autorízase al Departamento Ejecutivo Municipal a adjudicar Licitación Privada Nº 3 expediente Administrativo Nº 4029-1074/2025, como único oferente que cumple con los requisitos exigidos la firma Hábitat Ecológico S.A, p",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/13158/contents/2252587",
+   "versions": [
+    {
+     "from": "2025-07-27",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/13158/contents/2252587",
+     "sha256": "8f12f82780731f2381b23c045ffdc900254d4afe44c819a3a6507593cd12f731"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-10596-2025",
+   "short": "Ordenanza 10596/2025",
+   "title": "Ordenanza 10596/2025: Apruébese lo solicitado por el vecino Dante Pablo Forneris DNI N° 47.653.324, referente a la renovación del permiso de colocación de discos de “Prohibido estacionar” y el pintado de cordón amarillo frente a su domicilio,",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/13158/contents/2252618",
+   "versions": [
+    {
+     "from": "2025-07-27",
+     "units": 5,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/13158/contents/2252618",
+     "sha256": "56c42028b03686afc23e46775df5e77eb6d56e88b4274049f2c8cada70c82f29"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-10598-2025",
+   "short": "Ordenanza 10598/2025",
+   "title": "Ordenanza 10598/2025: Autorízase al Departamento Ejecutivo Municipal a convenir con el Ministerio de Infraestructura de la Provincia de Buenos Aires, la afectación del inmueble designado catastralmente como Circunscripción I, Sección M, Quint",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/13158/contents/2252630",
+   "versions": [
+    {
+     "from": "2025-07-27",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/13158/contents/2252630",
+     "sha256": "9c60be2ff78b2902522cece275e5b017f6a1db51f42117f3c57885203b16d9f2"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-10603-2025",
+   "short": "Ordenanza 10603/2025",
+   "title": "Ordenanza 10603/2025: Dispóngase la asignación del nombre “Antonio Alegre” a la calle identificada actualmente como calle 326 de la ciudad de Chacabuco.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/13158/contents/2252658",
+   "versions": [
+    {
+     "from": "2025-07-27",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/13158/contents/2252658",
+     "sha256": "c20c0ddc167802a495fe0a616a6740c53e5f50931f6afda314b685cec682a017"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-10607-2025",
+   "short": "Ordenanza 10607/2025",
+   "title": "Ordenanza 10607/2025: Autorizase a Jefatura Distrital de Educación Chacabuco, y en representación de la misma a su Inspectora Jefe Distrital Sra. Andrea Castronuevo, DNI: 20.919.057, el Uso del Espacio Público en Plaza San Martín y Pista de S",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/13164/contents/2252834",
+   "versions": [
+    {
+     "from": "2025-08-06",
+     "units": 7,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/13164/contents/2252834",
+     "sha256": "4b429e1cb4758584be2b850204c7136b936495a5574cdfbd5ded6023e758e58b"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-10615-2025",
+   "short": "Ordenanza 10615/2025",
+   "title": "Ordenanza 10615/2025: Autorizase a la Cruz Roja Argentina Filial Chacabuco, el Uso del Espacio Público y corte de tránsito vehicular en calle Quintana entre Pueyrredón y San Lorenzo de la ciudad de Chacabuco, el día sábado 7 de junio de 2025,",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/13164/contents/2252866",
+   "versions": [
+    {
+     "from": "2025-08-06",
+     "units": 6,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/13164/contents/2252866",
+     "sha256": "b0a8a97a393741dc19a23c6918a17858955a5def18f7a3a4425126f96a0631a3"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-10619-2025",
+   "short": "Ordenanza 10619/2025",
+   "title": "Ordenanza 10619/2025: Apruébese el Uso de Espacio Público para la instalación de reductores de velocidad en la intersección de las calles Alberdi y Primera Junta.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/13164/contents/2252877",
+   "versions": [
+    {
+     "from": "2025-08-06",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/13164/contents/2252877",
+     "sha256": "58753d518766f2cee0c8eb4a84a8233250c9f8e20d83d865dfd828b6206c67a8"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-10627-2025",
+   "short": "Ordenanza 10627/2025",
+   "title": "Ordenanza 10627/2025: Autorizase al Director de Desarrollo Agrario, el Sr. Pablo Meizoso DNI 24.728.197, el Uso del Espacio Público en Plaza 5 de Agosto de la ciudad de Chacabuco, los días 14 y 15 junio de 2025, en el horario de las 10:00 hs ",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/13343/contents/2269487",
+   "versions": [
+    {
+     "from": "2025-09-03",
+     "units": 7,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/13343/contents/2269487",
+     "sha256": "310ddb2c155a9ce3c0d92452b0ee0a36cf511a8d192324418d2829c8d2e283bc"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-10629-2025",
+   "short": "Ordenanza 10629/2025",
+   "title": "Ordenanza 10629/2025: Autorizase a la Laura Mansilla DNI 32.456.374, el Uso del Espacio Público, en calle Mitre Nº 188 de la ciudad de Chacabuco, el día 17 de junio de 2025, en el horario de 09:00 hs. a 15:00 hs.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/13343/contents/2269493",
+   "versions": [
+    {
+     "from": "2025-09-03",
+     "units": 7,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/13343/contents/2269493",
+     "sha256": "db51db65ac39cb1e32a30f0b8d4ff9a48a9d35732c709db588e0da913938153f"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-10634-2025",
+   "short": "Ordenanza 10634/2025",
+   "title": "Ordenanza 10634/2025: Autorizase al “Centro Vasco Guillermo Larregui”, el uso del Espacio Público en plaza 5 de agosto (playón), el día 29 de junio de 2025, en el horario de 13:00hs a 18:00hs.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/13343/contents/2269501",
+   "versions": [
+    {
+     "from": "2025-09-03",
+     "units": 6,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/13343/contents/2269501",
+     "sha256": "52b365cc64f0fae139e0fa331b491ccb53591c77f4149e3f2cad08b1e7752511"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-10640-2025",
+   "short": "Ordenanza 10640/2025",
+   "title": "Ordenanza 10640/2025: Convalídese el Decreto Municipal Nº 311/25, referente a la implementación del Programa Municipal “CHACABUCO PARA TODOS II” que se ejecutará en el partido de Chacabuco, a través del cual se regula el procedimiento de adju",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/13568/contents/2287078",
+   "versions": [
+    {
+     "from": "2025-10-09",
+     "units": 10,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/13568/contents/2287078",
+     "sha256": "3977412ab6a13960b36108c2ea30f26ac17b6bfb52c6c5c111e8a5de57ce590e"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-10642-2025",
+   "short": "Ordenanza 10642/2025",
+   "title": "Ordenanza 10642/2025: Reconózcase la deuda referida al expediente Nº 4029-2228/25 iniciado por el Sr. Jorge Provenzano, en concepto de prestación de las instalaciones de kartódromo para la realización de pruebas de manejo-",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/13568/contents/2287080",
+   "versions": [
+    {
+     "from": "2025-10-09",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/13568/contents/2287080",
+     "sha256": "2cecdbbdc2319221d721af2bc8b20d6e1876e1118798936138db661671f6293a"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-10649-2025",
+   "short": "Ordenanza 10649/2025",
+   "title": "Ordenanza 10649/2025: Apruébese lo solicitado por la vecina Lagtotta Maria Rosa DNI Nº 10.093.566, referente a la colocaciones de discos de “Prohibido estacionar” y el pintado de cordón amarillo frente a su domicilio, sito en calle San Juan N",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/13568/contents/2287095",
+   "versions": [
+    {
+     "from": "2025-10-09",
+     "units": 8,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/13568/contents/2287095",
+     "sha256": "53f684e9c0579aa46558e979e47aef18011e96cfadf3ef4937341d3aef2bd314"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-10656-2025",
+   "short": "Ordenanza 10656/2025",
+   "title": "Ordenanza 10656/2025: Apruébese la excepción solicitada por la firma “Molino Chacabuco S.A” respecto a la Ordenanza de Zonificación según Usos Nº 7494/18, para uso y ocupación del inmueble ubicado en calle Mitre Nº 27 de nuestra ciudad, para ",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/13568/contents/2287113",
+   "versions": [
+    {
+     "from": "2025-10-09",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/13568/contents/2287113",
+     "sha256": "de9df6ca381a819a4f246eb91eda84f1a1b911de2dbc02e0719b7c81ac5fc2a3"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-10659-2025",
+   "short": "Ordenanza 10659/2025",
+   "title": "Ordenanza 10659/2025: Declárese de Interés Social la Escrituración de Inmueble en favor de la Sra. ORTIZ IRMA ROSA DNI Nº 95.081.731, cuya Nomenclatura Catastral es la siguiente: Circunscripción I, Sección K, Quinta 791, Mzna 791-a, Parcela 1",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/13568/contents/2287119",
+   "versions": [
+    {
+     "from": "2025-10-09",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/13568/contents/2287119",
+     "sha256": "aa06fd6acdcb82262f01cef5da392567c20d1b1a3e492dc730c1b32a947071c5"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-10661-2025",
+   "short": "Ordenanza 10661/2025",
+   "title": "Ordenanza 10661/2025: Declárese de Interés Social la Escrituración de Inmueble en favor de la Sra. LOPEZ SILVANA LORENA Nº 28.779.255, cuya Nomenclatura Catastral es la siguiente: Circunscripción I, Sección K, Quinta 791, Mzna 791-a, Parcela ",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/13568/contents/2287126",
+   "versions": [
+    {
+     "from": "2025-10-09",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/13568/contents/2287126",
+     "sha256": "5f1ba27f035b92e376de84113b2678899bd9463261f4b8f2fbfa46aec05b8de0"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-10662-2025",
+   "short": "Ordenanza 10662/2025",
+   "title": "Ordenanza 10662/2025: Declárese de Interés Social la Escrituración de Inmueble en favor del Sr. MAGALLANES MATIAS AGUSTIN DNI Nº 43.255.035, cuya Nomenclatura Catastral es la siguiente: Circunscripción I, Sección K, Quinta 773, Mzna 773-c, Pa",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/13568/contents/2287132",
+   "versions": [
+    {
+     "from": "2025-10-09",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/13568/contents/2287132",
+     "sha256": "970ab439dfb4e0d37477358543a5eb0de6669a101bb8f04bb9ba149803efc1d7"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-10667-2025",
+   "short": "Ordenanza 10667/2025",
+   "title": "Ordenanza 10667/2025: Declárese de Interés Social la Escrituración de Inmueble en favor de la Sra. DIAZ CLAUDIA NOELIA DNI Nº 37.942.870, cuya Nomenclatura Catastral es la siguiente: Circunscripción I, Sección K, Quinta 791, Mzna 791-e, Parce",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/13568/contents/2287141",
+   "versions": [
+    {
+     "from": "2025-10-09",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/13568/contents/2287141",
+     "sha256": "8cf4805bbaace014001c317f7e7bb338153a504a557141e7bf199c5cc4c526d3"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-10678-2025",
+   "short": "Ordenanza 10678/2025",
+   "title": "Ordenanza 10678/2025: Autorizase a la Capilla Nuestra Señora del Carmen, y en su representación a la Sra. María del Carmen Aprile, el Uso del Espacio Público y corte de tránsito vehicular de las siguientes calles, el día 16 de julio de 2025 e",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/13568/contents/2287173",
+   "versions": [
+    {
+     "from": "2025-10-09",
+     "units": 6,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/13568/contents/2287173",
+     "sha256": "ba08e90738d63df463b98e344c84edf904ef1c6471d468e548359836c039c09b"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-10692-2025",
+   "short": "Ordenanza 10692/2025",
+   "title": "Ordenanza 10692/2025: Autorícese a la Sra. Claudia Moreno DNI 17.865.204, el Uso del Espacio Público en calle Rivadavia Nº 88 (Sobre Ciclovías), de la ciudad de Chacabuco, el dia 7 de agosto de 2025, a partir de las 09:00 hs. hasta las 16 hs.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/13568/contents/2287214",
+   "versions": [
+    {
+     "from": "2025-10-09",
+     "units": 6,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/13568/contents/2287214",
+     "sha256": "6cfbb159d09fcd56d95c38478d6bcfe5b3314117df5435c2d7db88a44ea25707"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-10700-2025",
+   "short": "Ordenanza 10700/2025",
+   "title": "Ordenanza 10700/2025: Convalidase el contrato celebrado entre la Municipalidad de Chacabuco, CUIT: 30-99908326-5, y la firma ASINTEG SRL, CUIT Nº 30-67606582-9, por la contratación de un Equipo de Inmunoanálisis para el Servicio de Laboratori",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/13623/contents/2289571",
+   "versions": [
+    {
+     "from": "2025-11-01",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/13623/contents/2289571",
+     "sha256": "8caab53abb1ce68b13f2b28103958fb78d65eba7c205718d90a0a1a970d5cd54"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-10709-2025",
+   "short": "Ordenanza 10709/2025",
+   "title": "Ordenanza 10709/2025: Autorizase al Sr. Carlos Sosa DNI Nº 17.800.318, la excepción a la Ordenanza Nº 4915/09 y su modificatoria Ordenanza Nº 7112/17, para la venta de bebidas alcohólicas en el marco de la “Festival de Box”, que se llevará ca",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/13623/contents/2289650",
+   "versions": [
+    {
+     "from": "2025-11-01",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/13623/contents/2289650",
+     "sha256": "5124d712864f6d5d14fe7e002790a06bdada1b070b3ff6dbd1d8f9266c79bd34"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-10712-2025",
+   "short": "Ordenanza 10712/2025",
+   "title": "Ordenanza 10712/2025: Autorizase al Coordinador del Centro Deportivo Zona Oeste, el Sr. Gonzalo Correas, el Uso del Espacio Público y corte del tránsito vehicular, en Acceso Juan XXIII entre Juan José Paso hasta las vías del Ferrocarril, de l",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/13623/contents/2289678",
+   "versions": [
+    {
+     "from": "2025-11-01",
+     "units": 8,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/13623/contents/2289678",
+     "sha256": "0b9888e0bd67dd6a7d1c7786ab2273f47f5584abc2596ce2bd8a06ab9a872d20"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-10713-2025",
+   "short": "Ordenanza 10713/2025",
+   "title": "Ordenanza 10713/2025: Autorícese a la Sra. Claudia Moreno DNI 17.865.204, el Uso del Espacio Público en calle Rivadavia Nº 88 (Sobre Ciclovías), de la ciudad de Chacabuco, el día 22 de agosto de 2025, a partir de las 08:00 hs. a las 12:00 hs.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/13623/contents/2289687",
+   "versions": [
+    {
+     "from": "2025-11-01",
+     "units": 6,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/13623/contents/2289687",
+     "sha256": "f4cd777ebb8796e51d50738c7afb06aba71c5738f3c95d3fd2adb10a89d98851"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-10714-2025",
+   "short": "Ordenanza 10714/2025",
+   "title": "Ordenanza 10714/2025: Autorizase al Sr. Julio Cesar Medina DNI Nº 23.182.074, la excepción a la Ordenanza Nº 4915/09 y su modificatoria Ordenanza Nº 7112/17, para la venta de bebidas alcohólicas en el marco del evento boxístico, que se llevar",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/13623/contents/2289696",
+   "versions": [
+    {
+     "from": "2025-11-01",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/13623/contents/2289696",
+     "sha256": "4434361cbd5b69d757df9435c1ca5eb3e8b0afd90e73c8dce682c96844fc71a1"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-10722-2025",
+   "short": "Ordenanza 10722/2025",
+   "title": "Ordenanza 10722/2025: Autorizase a la Subsecretaria de Cultura y DDHH, y en su representación a la Prof. Julieta Pederzoli DNI 25.817.778, el Uso del Espacio Público en Plaza San Martin y corte vehicular de calle Reconquista del 0 al 50, de l",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/13623/contents/2289726",
+   "versions": [
+    {
+     "from": "2025-11-01",
+     "units": 7,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/13623/contents/2289726",
+     "sha256": "6731412dcca51f93ce48b34bddf0f5da5ada3f4ad8495c7c10d774c1fede2eed"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-10725-2025",
+   "short": "Ordenanza 10725/2025",
+   "title": "Ordenanza 10725/2025: Autorícese a la Sra. Malena Uelan DNI 43.324.396, el Uso del Espacio Público y corte vehicular en calle Almirante Brown Nº 294 entre Avenida Arenales y calle Jujuy, de la ciudad de Chacabuco, el día 19 septiembre de 2025",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/13623/contents/2289732",
+   "versions": [
+    {
+     "from": "2025-11-01",
+     "units": 7,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/13623/contents/2289732",
+     "sha256": "a1f65f1984b23df7ed2ae4b50af7ef836b635c52009e13b239d861cf98ac44ca"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-10728-2025",
+   "short": "Ordenanza 10728/2025",
+   "title": "Ordenanza 10728/2025: Autorizase a la Santiago Carnaghi, DNI: 27.386.390, el Uso del Espacio Público, en calle Mitre Nº 188 de la ciudad de Chacabuco, el día 18 de septiembre de 2025, en el horario de 08:30 hs. a 15:00 hs.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/13623/contents/2289739",
+   "versions": [
+    {
+     "from": "2025-11-01",
+     "units": 7,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/13623/contents/2289739",
+     "sha256": "28afad1725383b76e6cb51baec13462d538de11627e906e709908b8c2850d7f1"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-10730-2025",
+   "short": "Ordenanza 10730/2025",
+   "title": "Ordenanza 10730/2025: Declárese a la ciudad de Chacabuco como “Ciudad Sanmartiniana”, en reconocimiento al legado del General Don José de San Martín y a los valores patrióticos que representa.-",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/13623/contents/2289744",
+   "versions": [
+    {
+     "from": "2025-11-01",
+     "units": 7,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/13623/contents/2289744",
+     "sha256": "f5bfd9395961545113760974268c49e2857d7d7861b94d88f81f570fb9368099"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-10738-2025",
+   "short": "Ordenanza 10738/2025",
+   "title": "Ordenanza 10738/2025: Otorgase al Departamento Ejecutivo Municipal, la Prorroga solicitada ante éste Honorable Cuerpo Deliberativo para la presentación del Presupuesto correspondiente al Ejercicio Económico del Año 2026, por el término de 30 ",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/13994/contents/2317513",
+   "versions": [
+    {
+     "from": "2025-12-13",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/13994/contents/2317513",
+     "sha256": "30572acc3a71fc2affca6da62b38dfcce4fb9d894d5b26c5a9d4400885922cc4"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-10747-2025",
+   "short": "Ordenanza 10747/2025",
+   "title": "Ordenanza 10747/2025: Autorizase al Departamento Ejecutivo Municipal, a adjudicar la Licitación Privada Nº 4/2025, como único oferente que cumple con los requisitos: GEMATEC S.R.L, para la contratación en comodato de los equipos para el funci",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/13994/contents/2317576",
+   "versions": [
+    {
+     "from": "2025-12-13",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/13994/contents/2317576",
+     "sha256": "de5246f33d1e2614b949eef49afbc7e45c850902580bd294de432e8aca3c5e67"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-10748-2025",
+   "short": "Ordenanza 10748/2025",
+   "title": "Ordenanza 10748/2025: Convalidase el contrato entre la Municipalidad de Chacabuco, representada por el Sr. Intendente Municipal, Dr. Rubén Darío Golia DNI Nº 22.575.124 y por otra parte la firma IANUS S.A, representada por la Sra. Victoria B.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/13994/contents/2317579",
+   "versions": [
+    {
+     "from": "2025-12-13",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/13994/contents/2317579",
+     "sha256": "cf59205c2c13ca88e5b84ffd8b8ebe7b4f54d467dd11a2f4c601a3cf7d64c7cd"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-10750-2025",
+   "short": "Ordenanza 10750/2025",
+   "title": "Ordenanza 10750/2025: Aceptase la donación efectuada por el Ministerio de Infraestructura y Servicios Públicos de la Provincia de Buenos Aires de vehículo: Marca: FORD, Modelo: FOCUS, Chasis: 8AFBZZFFCHJ483837, Motor N°: MGDAHJ483837, Año: 2.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/13994/contents/2317588",
+   "versions": [
+    {
+     "from": "2025-12-13",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/13994/contents/2317588",
+     "sha256": "af6a425beb712a50aa1199df8a1824ebefb82406dd969198b4cfca093a192a68"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-10764-2025",
+   "short": "Ordenanza 10764/2025",
+   "title": "Ordenanza 10764/2025: Autorizase a “Ministerio Impacto de Fe”, y en representación del mismo al Pastor Sr. Diego Amores, el uso del espacio público en Plaza San Martín de la ciudad de Chacabuco, el día viernes 31 de octubre de 2025, en el hor",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/13994/contents/2317617",
+   "versions": [
+    {
+     "from": "2025-12-13",
+     "units": 7,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/13994/contents/2317617",
+     "sha256": "2f53ad086a6388412b3bc2c920d5be8a242804079a9592bac2b857d368caba0a"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-10765-2025",
+   "short": "Ordenanza 10765/2025",
+   "title": "Ordenanza 10765/2025: Autorizase al Sr. Augusto Castrillo DNI Nº 38.852.786, el Uso del Espacio Público en vereda de Avenida Saavedra Nº 52 (BigTallo), de la ciudad de Chacabuco, el día 19 de octubre de 2025, desde las 17:00hs hasta las 00:00",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/13994/contents/2317618",
+   "versions": [
+    {
+     "from": "2025-12-13",
+     "units": 7,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/13994/contents/2317618",
+     "sha256": "811288f232dd81ba911dbd2e20d2b1fb57c854a39bf19b76be1a91940b060076"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-10767-2025",
+   "short": "Ordenanza 10767/2025",
+   "title": "Ordenanza 10767/2025: Autorizase a la Santiago Carnaghi, DNI: 27.386.390, el Uso del Espacio Público, en calle Mitre Nº 188 de la ciudad de Chacabuco, el día 20 de octubre de 2025, en el horario de 09:00 hs. a 15:00 hs.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/13994/contents/2317623",
+   "versions": [
+    {
+     "from": "2025-12-13",
+     "units": 6,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/13994/contents/2317623",
+     "sha256": "ca404225fff9444d52e64eaf1604ca4a88c767ad79f2a80f44dde6f1cd555298"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-10771-2025",
+   "short": "Ordenanza 10771/2025",
+   "title": "Ordenanza 10771/2025: Autorizase al Sr. Carlos Sosa DNI Nº 17.800.318, la excepción a la Ordenanza Nº 4915/09 y su modificatoria Ordenanza Nº 7112/17, para la venta de bebidas alcohólicas en el marco de la “Festival de Box”, que se llevará ca",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/13994/contents/2317632",
+   "versions": [
+    {
+     "from": "2025-12-13",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/13994/contents/2317632",
+     "sha256": "e23b27a259daf9b7309169138a8e758b0dca4dc9d1ec77d1006e7aa1f74f8f82"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-10774-2025",
+   "short": "Ordenanza 10774/2025",
+   "title": "Ordenanza 10774/2025: Autorizase al Sr. Diego Nally DNI 30.339.735, el Uso del Espacio Público en calle La Rioja Nº 14 (sobre bicisenda) de la ciudad de Chacabuco, el día 31 de octubre de 2025, en el horario de 11:00 horas a 14:00 horas.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/13994/contents/2317641",
+   "versions": [
+    {
+     "from": "2025-12-13",
+     "units": 6,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/13994/contents/2317641",
+     "sha256": "f33a57827760f7d115a16d9c1a80e5476ea1246a8149e2290b5ac491e7470896"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-10780-2026",
+   "short": "Ordenanza 10780/2026",
+   "title": "Ordenanza 10780/2026: Autorizase a la “Dirección de Políticas de Género”, y en su representación a la Directora Dra. Leticia Barisano, para el uso de Espacio Público en Plaza G. San Martín con motivo de la “Conmemoración Internacional de la E",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/14120/contents/2330591",
+   "versions": [
+    {
+     "from": "2026-01-14",
+     "units": 5,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/14120/contents/2330591",
+     "sha256": "563902798b83cc3ae23df50defed95902044a5def1a90f57707177d7065dfcf2"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-10797-2026",
+   "short": "Ordenanza 10797/2026",
+   "title": "Ordenanza 10797/2026: Declárese de Interés Social la Escrituración de Inmueble en favor del Sr. VENINETTI MARCOS ANIBAL Nº 28.142.773, cuya Nomenclatura Catastral es la siguiente: Circunscripción I, Sección K, Quinta 801, Mzna 801-c, Parcela ",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/14120/contents/2330646",
+   "versions": [
+    {
+     "from": "2026-01-14",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/14120/contents/2330646",
+     "sha256": "51dc3cb144e5607256c71ee5565f105b5d57ef84fcfd114f2d5567006fbd0adb"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-10798-2026",
+   "short": "Ordenanza 10798/2026",
+   "title": "Ordenanza 10798/2026: Otórguese la excepción a la Ordenanza Nº 7494/17 solicitada por la Sra. Silvana CARBONI, DNI Nº 36.036.472, con motivo de obtener la habilitación para el funcionamiento de canchas de pádel, dentro de un predio ubicado en",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/14120/contents/2330647",
+   "versions": [
+    {
+     "from": "2026-01-14",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/14120/contents/2330647",
+     "sha256": "16533afca0c27e5211fa9c0ab716f047417681b6dbb46409b83bcce61058cb89"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-10801-2026",
+   "short": "Ordenanza 10801/2026",
+   "title": "Ordenanza 10801/2026: Autorizase lo solicitado, de acuerdo al pedido de reparación del hundimiento del pavimento ubicado en la intersección de las calles Matheu y Alem de la ciudad de Chacabuco.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/14120/contents/2330654",
+   "versions": [
+    {
+     "from": "2026-01-14",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/14120/contents/2330654",
+     "sha256": "01f50f0b2cc3348e7b42cc78ea73df12e797a5c1617f7855afb62bbd18dd6da2"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-10803-2026",
+   "short": "Ordenanza 10803/2026",
+   "title": "Ordenanza 10803/2026: Apruébese lo solicitado por el vecino JORGE RUBEN GONZALEZ DNI Nº 36.987.642, referente a la colocaciones de discos de “Prohibido estacionar” y el pintado de cordón amarillo frente a su domicilio, sito en calle Belgrano ",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/14120/contents/2330660",
+   "versions": [
+    {
+     "from": "2026-01-14",
+     "units": 5,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/14120/contents/2330660",
+     "sha256": "07a58f53da964717fcada9c75a1571a04cb2edd2b397448be2a891df76ded548"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-10804-2026",
+   "short": "Ordenanza 10804/2026",
+   "title": "Ordenanza 10804/2026: Declárese de Interés Social la Escrituración de Inmueble en favor del Sr. VILCHES BRUNO HORACIO Nº 32.846.267, cuya Nomenclatura Catastral es la siguiente: Circunscripción I, Sección K, Quinta 773, Mzna 773-b, Parcela 11",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/14120/contents/2330662",
+   "versions": [
+    {
+     "from": "2026-01-14",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/14120/contents/2330662",
+     "sha256": "f53a6dc767dc776834bccd94ea245787208d1c9ce376c747e1584b34677ba608"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-10808-2026",
+   "short": "Ordenanza 10808/2026",
+   "title": "Ordenanza 10808/2026: Declárase Personalidad Destacada del Deporte del Partido de Chacabuco al atleta Mauro Rozza, en reconocimiento a su sobresaliente trayectoria deportiva, su aporte al atletismo nacional y su permanente representación de n",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/14120/contents/2330669",
+   "versions": [
+    {
+     "from": "2026-01-14",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/14120/contents/2330669",
+     "sha256": "1bb1b624794b8dcdabc07c17bad7f8addf13f7091e9900c1c8fbe815e96b8d57"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-10809-2026",
+   "short": "Ordenanza 10809/2026",
+   "title": "Ordenanza 10809/2026: Fíjese en la suma de PESOS SETENTA Y UN MIL QUINIENTOS CATORCE MILLONES TRESCIENTOS SESENTA Y CINCO MIL SETECIENTOS TREINTA con 00/100 ($71.514.365.730,00) el Presupuesto General de Gastos para el ejercicio económico fin",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/14245/contents/2334658",
+   "versions": [
+    {
+     "from": "2026-01-22",
+     "units": 15,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/14245/contents/2334658",
+     "sha256": "fa104717dba892a754c55ac462fc6ba943692a6a75a276e6da6614ba10cdb90a"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-10814-2026",
+   "short": "Ordenanza 10814/2026",
+   "title": "Ordenanza 10814/2026: Ampliase el Cálculo de Recursos del Ejercicio 2025, en la suma de Pesos:-------- Cinco mil quince millones cuatrocientos siete mil quinientos cincuenta y nueve con 16/100 centavos ($ 5.015.407.559,16) en los rubros que s",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/14245/contents/2334663",
+   "versions": [
+    {
+     "from": "2026-01-22",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/14245/contents/2334663",
+     "sha256": "df7e8fd56948432b7495224843d7d36e04684dd87090aa9555645b8d203c0146"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-10829-2026",
+   "short": "Ordenanza 10829/2026",
+   "title": "Ordenanza 10829/2026: Autorícese a Jefatura Distrital de Educación Chacabuco, y en representación a la Inspectora, Sra. Andrea Castronuevo, DNI 20.919.057, el uso del espacio público en Escuela de Educación Especial Nº 501 y corte de tránsito",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/14245/contents/2334678",
+   "versions": [
+    {
+     "from": "2026-01-22",
+     "units": 5,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/14245/contents/2334678",
+     "sha256": "e4223c7cbd7e574a64da1a732d6aa70d653e0d9d223594627820b1788ea1049e"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-10830-2026",
+   "short": "Ordenanza 10830/2026",
+   "title": "Ordenanza 10830/2026: Autorizase a la Directora de Educación Vial, Sra. María Virginia Mercanti DNI Nº 26.811.799, el Uso del Espacio Público y corte de tránsito vehicular en Avenida Saavedra y calle Maipú, de la ciudad de Chacabuco, el día 4",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/14245/contents/2334679",
+   "versions": [
+    {
+     "from": "2026-01-22",
+     "units": 5,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/14245/contents/2334679",
+     "sha256": "aaa40ac3872ba0e9ceae97fe999e2b8e19d5b19f259ab0741598fcc1e736dd93"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-10840-2026",
+   "short": "Ordenanza 10840/2026",
+   "title": "Ordenanza 10840/2026: Autorícese a la Dirección de Deportes, y en su representación al Prof. Jorge Giménez, el Uso del Espacio Público y corte vehicular en calle Reconquista entre Pueyrredon y San Martin (frente al Palacio Municipal), el dia ",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/14245/contents/2334689",
+   "versions": [
+    {
+     "from": "2026-01-22",
+     "units": 6,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/14245/contents/2334689",
+     "sha256": "75a6051ec59b873911cf65b1a58683a83353966c3ac55f8162d10c034b47c855"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-10844-2026",
+   "short": "Ordenanza 10844/2026",
+   "title": "Ordenanza 10844/2026: Autorizase a la Sra. Andrea Bigeon, DNI 23.291.960, el Uso del Espacio Público y corte de Tránsito Vehicular, en calle Aristóbulo de Valle entre Almafuerte y Ituzaingo de nuestra ciudad, el día viernes 26 de diciembre de",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/14245/contents/2334693",
+   "versions": [
+    {
+     "from": "2026-01-22",
+     "units": 6,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/14245/contents/2334693",
+     "sha256": "03aa2a40a2c92dce98513951d5e6bf00f56b993e18a82a1ba53bea6565edeeed"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-10845-2026",
+   "short": "Ordenanza 10845/2026",
+   "title": "Ordenanza 10845/2026: Autorizase a la Santiago Carnaghi, DNI: 27.386.390, el Uso del Espacio Público, en calle Mitre Nº 188 de la ciudad de Chacabuco, el día 19 de diciembre de 2025, en el horario de 08:30 hs. a 15:00 hs.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/14245/contents/2334694",
+   "versions": [
+    {
+     "from": "2026-01-22",
+     "units": 6,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/14245/contents/2334694",
+     "sha256": "3b3478d6d8ecda384f039dba2b37f39381df667318e8e76db83e89cdbdd78056"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-10860-2026",
+   "short": "Ordenanza 10860/2026",
+   "title": "Ordenanza 10860/2026: Autorizase lo solicitado por la vecina Sra. Valeria Bentancour DNO N° 26.492.370, referente a la colocación de discos “Prohibido Estacionar” y el pintado de cordón amarillo frente a su domicilio, sito en calle Belgrano N",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/14245/contents/2334709",
+   "versions": [
+    {
+     "from": "2026-01-22",
+     "units": 5,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/14245/contents/2334709",
+     "sha256": "4eb77556c7c1505b9459a69727458d6e6f993197e6d4872c6a819e9249166094"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-10868-2026",
+   "short": "Ordenanza 10868/2026",
+   "title": "Ordenanza 10868/2026: Modifíquese e Incorpórase a la Ordenanza Fiscal N° 9576/22, los artículos 161 a 165 que quedarán redactados de la siguiente forma:",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/14245/contents/2332982",
+   "versions": [
+    {
+     "from": "2026-01-22",
+     "units": 13,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/14245/contents/2332982",
+     "sha256": "a944b92e2153e1bda1c2edabf1efde77cf2b96177564103c53ef96c4690a0d07"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-10874-2026",
+   "short": "Ordenanza 10874/2026",
+   "title": "Ordenanza 10874/2026: Autorizase al Departamento Ejecutivo Municipal, en el marco de la Licitación Privada Nº 1/2026, a la contratación de la Cooperativa de Trabajo Chacabuco Verde Ltda. para desarrollar tareas de clasificación de residuos re",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/14653/contents/2375088",
+   "versions": [
+    {
+     "from": "2026-04-25",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/14653/contents/2375088",
+     "sha256": "8eef3039207b76aad260ddbb75a57d6afdb1e60f7a917d0de28c00ac4655db65"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-10877-2026",
+   "short": "Ordenanza 10877/2026",
+   "title": "Ordenanza 10877/2026: Declárese de Interés Social la Escrituración de Inmueble en favor de la Sra. SAVALIO ORNELA JANETH Nº 33.681.924, cuya Nomenclatura Catastral es la siguiente: Circunscripción I, Sección K, Quinta 730, Mzna 730-n, Parcela",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/14653/contents/2375094",
+   "versions": [
+    {
+     "from": "2026-04-25",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/14653/contents/2375094",
+     "sha256": "0523fd8a496485947afeaf2399df3eb015ed9c81b445726a371940cbd61cdc27"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-10884-2026",
+   "short": "Ordenanza 10884/2026",
+   "title": "Ordenanza 10884/2026: Autorizase a la firma “Ingeniería del Suelo S.R.L., y en nombre de la misma al Ingeniero Sr. Juan Zabala, el Uso del Espacio Público, uso del suelo y apertura de zanjas, para ejecutar el tendido de cañerías, para ampliac",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/14653/contents/2375107",
+   "versions": [
+    {
+     "from": "2026-04-25",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/14653/contents/2375107",
+     "sha256": "1ac9c0516991e11ed9e8c2e9b3aecbc946b04dd2aedfd1523affafb4339edf00"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-10888-2026",
+   "short": "Ordenanza 10888/2026",
+   "title": "Ordenanza 10888/2026: Establézcase que la calle Dr. Fernández sea de circulación única en dirección hacia la Av. Elguea Román.-",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/14653/contents/2375113",
+   "versions": [
+    {
+     "from": "2026-04-25",
+     "units": 5,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/14653/contents/2375113",
+     "sha256": "402c54fc2234ab75fe7cb699184f26c82d3b4529dce876034cf6fefee97a7200"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-10891-2026",
+   "short": "Ordenanza 10891/2026",
+   "title": "Ordenanza 10891/2026: Autorizase a la “Subsecretaria de Cultura y DDHH, y en su representación a la Prof. Julieta Pederzoli DNI 25.817.778,el Uso del Espacio Público y corte vehicular en calle Reconquista del 0 al 50, de la ciudad de Chacabuc",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/14653/contents/2375119",
+   "versions": [
+    {
+     "from": "2026-04-25",
+     "units": 6,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/14653/contents/2375119",
+     "sha256": "33816edf5714a1722f9ffcaeee30b3ab381296b25e88c395b6016930825ccbb6"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-10897-2026",
+   "short": "Ordenanza 10897/2026",
+   "title": "Ordenanza 10897/2026: Autorizase al Sr. Hugo Duhalde Presidente de la Sociedad de Fomento Barrio Ubaldo Martínez, la excepción a la Ordenanza Nº 4915/09 y su modificatoria Ordenanza Nº 7112/17, para la venta de bebidas alcohólicas en el “Fest",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/14653/contents/2375128",
+   "versions": [
+    {
+     "from": "2026-04-25",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/14653/contents/2375128",
+     "sha256": "0a1912f3e6154880617f6ff4abc87353f85a608a76a854578fa145d2e21af4a7"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-10909-2026",
+   "short": "Ordenanza 10909/2026",
+   "title": "Ordenanza 10909/2026: Autorizase al Hogar de Cristo, y en representación de la misma al Sr. José Bega, el uso del Espacio Público en Plaza Lavalle, el día 7 de febrero de 2026, en el horario de 10:00 a 21:00 hs.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/14653/contents/2375172",
+   "versions": [
+    {
+     "from": "2026-04-25",
+     "units": 6,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/14653/contents/2375172",
+     "sha256": "514bdd08a237f1be3d4c6b69a440a2375475bab56e2716216aa697a8a9c8a7fb"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-10910-2026",
+   "short": "Ordenanza 10910/2026",
+   "title": "Ordenanza 10910/2026: Autorizase a la Santiago Carnaghi, DNI: 27.386.390, el Uso del Espacio Público, en calle Mitre Nº 188, el día 9 de febrero de 2026, en el horario de 08:30 hs. a 12:30 hs. Y de 12:30 en calle Artigas y La Rioja de 13.00 a",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/14653/contents/2375192",
+   "versions": [
+    {
+     "from": "2026-04-25",
+     "units": 6,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/14653/contents/2375192",
+     "sha256": "5ab404d38e021d63cb0a26c140403fe90bf656c3ceb65572bb9fcdcefe042547"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-10914-2026",
+   "short": "Ordenanza 10914/2026",
+   "title": "Ordenanza 10914/2026: Autorizase al Merendero Niños Felices, y en su representación a la presidenta Nancy Nicolini, DNI Nº 16.927.018, el Uso del Espacio Público en plaza General Paz de la ciudad de Chacabuco, los días 7 y 8 de febrero de 202",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/14653/contents/2375198",
+   "versions": [
+    {
+     "from": "2026-04-25",
+     "units": 7,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/14653/contents/2375198",
+     "sha256": "23f6a8bfc6658313e5e7cf8944a8e48a47c8fd34a0bd4a6c456ef9b309994238"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-10915-2026",
+   "short": "Ordenanza 10915/2026",
+   "title": "Ordenanza 10915/2026: Autorizase a la Delegación de la Localidad de Castilla, (Delegado Miguel Terrile DNI Nº 17.144.602) el Uso del Espacio Público y corte vehicular de calle 5 entre calle 8 y calle 10; calle 10 entre 3 y 5; en calle 3 entre",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/14653/contents/2375199",
+   "versions": [
+    {
+     "from": "2026-04-25",
+     "units": 8,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/14653/contents/2375199",
+     "sha256": "22bb7425aba9845c024603d5dcc970048adb407d8422e98c36f2574ba11d635e"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-10922-2026",
+   "short": "Ordenanza 10922/2026",
+   "title": "Ordenanza 10922/2026: Autorizase a la Delegación de Rawson y en su representación al Sr. Gustavo Daniel Millán DNI 17.445.954, el Uso del Espacio Público en plaza General San Martin y corte vehicular de las siguientes calles:",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/14653/contents/2375243",
+   "versions": [
+    {
+     "from": "2026-04-25",
+     "units": 8,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/14653/contents/2375243",
+     "sha256": "ea7ef0f10b7f93beb1a7517d07171a59b3e47fd50fc3cceb63de2511b9e33661"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-10923-2026",
+   "short": "Ordenanza 10923/2026",
+   "title": "Ordenanza 10923/2026: Autorizase a la Parroquia San Isidro labrador, y en representación de la misma al Cura Párroco Darío Kling DNI N° 17.144.815, el Uso del Espacio Público y Corte de la calle Padre Doglia y Almirante Brown, de nuestra ciud",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/14653/contents/2375246",
+   "versions": [
+    {
+     "from": "2026-04-25",
+     "units": 5,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/14653/contents/2375246",
+     "sha256": "513155766614e1f3a9dafb3882ff6dc23814d45bf96bead7578eb1ef3a5d6646"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-10924-2026",
+   "short": "Ordenanza 10924/2026",
+   "title": "Ordenanza 10924/2026: Autorizase a la Parroquia San Isidro labrador, y en representación de la misma al Cura Párroco Darío Kling DNI N° 17.144.815, el Uso del Espacio Público y Corte vehicular en Capilla Sagrada Familia, en calle 9 de Julio e",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/14653/contents/2375247",
+   "versions": [
+    {
+     "from": "2026-04-25",
+     "units": 5,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/14653/contents/2375247",
+     "sha256": "21c4ecd66c3a8c86bae338b5aeb3ab251c1523163b28f3834a7aaa526039547c"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-10930-2026",
+   "short": "Ordenanza 10930/2026",
+   "title": "Ordenanza 10930/2026: Autorizase a la Cruz Roja Argentina Filial Chacabuco, el Uso del Espacio Público en plaza 5 de Agosto, de la ciudad de Chacabuco, el día domingo 8 Marzo de 2026, en el horario de 16:00 a 20:00 hs.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/14653/contents/2375261",
+   "versions": [
+    {
+     "from": "2026-04-25",
+     "units": 7,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/14653/contents/2375261",
+     "sha256": "d54e82cca9806d8cfc7841ee9a3153ffecc4f6d8e72ed595dab300c9435efcf5"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-10931-2026",
+   "short": "Ordenanza 10931/2026",
+   "title": "Ordenanza 10931/2026: Autorizase a la “Subsecretaria de Cultura y DDHH, y en su representación a la Prof. Julieta Pederzoli DNI 25.817.778, el Uso del Espacio Público, en plaza San Martin, de la ciudad de Chacabuco, el día 7 de marzo de 2026,",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/14653/contents/2375264",
+   "versions": [
+    {
+     "from": "2026-04-25",
+     "units": 7,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/14653/contents/2375264",
+     "sha256": "e16438a41350f5692d2728fb02180b3bb499ce05eba09434e3a7c8e8d851bce4"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-10932-2026",
+   "short": "Ordenanza 10932/2026",
+   "title": "Ordenanza 10932/2026: Autorizase a la Sra. Araceli Landriel, la excepción a la Ordenanza Nº 4915/09 y su modificatoria Ordenanza Nº 7112/17, para la venta de bebidas alcohólicas en el marco de la Peña Solidaria a beneficio de Hector Landriel,",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/14653/contents/2375265",
+   "versions": [
+    {
+     "from": "2026-04-25",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/14653/contents/2375265",
+     "sha256": "b3a3d31e606a4ce9a730ef05830910b1650d120fdeabd27e2f756c33cc4ff9cf"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-10937-2026",
+   "short": "Ordenanza 10937/2026",
+   "title": "Ordenanza 10937/2026: Autorícese a la Comisión de Memoria y Justicia Chacabuco, el Uso del Espacio Público, en espacio “Punto de la Memoria” y alrededores en Plaza San Martín, de la ciudad de Chacabuco, el día 24 de marzo de 2025, en el horar",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/14653/contents/2375278",
+   "versions": [
+    {
+     "from": "2026-04-25",
+     "units": 6,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/14653/contents/2375278",
+     "sha256": "29704d37b983308828064bb21286c9815f11d94342ae39c8bc8882259264566f"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-10948-2026",
+   "short": "Ordenanza 10948/2026",
+   "title": "Ordenanza 10948/2026: Convalidase el Contrato de Locación, suscripto entre el Sr. Intendente Municipal Dr. Ruben Dario Golia DNI 22.575.124, en representación de la Municipalidad de Chacabuco, y la Sra. Ana Marina Rolla, DNI 32.363.543, por e",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/15682/contents/2436978",
+   "versions": [
+    {
+     "from": "2026-09-30",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/15682/contents/2436978",
+     "sha256": "7e6e59d253969f6190fe40a51f2789dcd0c6faeb231ad9567427066eaaa5ec9e"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-10952-2026",
+   "short": "Ordenanza 10952/2026",
+   "title": "Ordenanza 10952/2026: Autorícese a la Sra. Martina Nicolini DNI N° 39.922.470, el Uso del Espacio Público y corte vehicular, en calle Villegas entre Soberanía Nacional y San Isidro Labrador, de la ciudad de Chacabuco, el día domingo 15 de mar",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/15682/contents/2437005",
+   "versions": [
+    {
+     "from": "2026-09-30",
+     "units": 5,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/15682/contents/2437005",
+     "sha256": "c2d485324054592237c6d6641a0bd42542666cb1fcb84167b07052f74265b233"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-10954-2026",
+   "short": "Ordenanza 10954/2026",
+   "title": "Ordenanza 10954/2026: Autorizase al “Centro Vasco Guillermo Larregui”, y en su representación a Juan Cruz Zubeldía, el Uso del Espacio Público y corte vehicular en calle Remedios Escalada de San Martin Nº 230 hasta Avenida Saavedra, doblando ",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/15682/contents/2437008",
+   "versions": [
+    {
+     "from": "2026-09-30",
+     "units": 5,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/15682/contents/2437008",
+     "sha256": "d32deb860dabb342e7172486d061afc1f2d6643d5b556099dc70fc138c5a1af2"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-10958-2026",
+   "short": "Ordenanza 10958/2026",
+   "title": "Ordenanza 10958/2026: Autorícese a la Dirección de Deportes, y en su representación al Profesor Jorge Giménez, el Uso del Espacio Público y corte vehicular, en calle San Martin y Primera Junta, de la ciudad de Chacabuco. El día Domingo 22 de ",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/15682/contents/2437016",
+   "versions": [
+    {
+     "from": "2026-09-30",
+     "units": 7,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/15682/contents/2437016",
+     "sha256": "63c674c1ee483be9d6a8e25cd5c53bdd80b4d970ea8d901a43839b2fe3085593"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-10961-2026",
+   "short": "Ordenanza 10961/2026",
+   "title": "Ordenanza 10961/2026: Autorizase a los Sres. Martin Lacentra DNI 24.728.104 (QUIMEY CO), Lucas Cassino DNI Nº 27.224.757 (Barra Lucas Cassino), Tomas Rojas DNI Nº 46.268.423 (Goloso), y Emanuel Milione DNI 34.240.814 (MALDITA BIRRA), Emanuel ",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/15682/contents/2437024",
+   "versions": [
+    {
+     "from": "2026-09-30",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/15682/contents/2437024",
+     "sha256": "c2e6598c95ee16ff57d6fb398c07b9a3aa03c0be00e0c3dd378c911843138b74"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-10965-2026",
+   "short": "Ordenanza 10965/2026",
+   "title": "Ordenanza 10965/2026: Autorizase a la Parroquia San Isidro labrador, y en representación de la misma al Cura Párroco Darío Kling DNI N° 17.144.815, el Uso del Espacio Público, con Corte de calles de nuestra ciudad, día 2 de abril de 2026, a p",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/15682/contents/2437033",
+   "versions": [
+    {
+     "from": "2026-09-30",
+     "units": 5,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/15682/contents/2437033",
+     "sha256": "33333fc99a99a03399ec1edbfb9b0319158a5bafcd1cb05d121d8237ab9a5f26"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-10966-2026",
+   "short": "Ordenanza 10966/2026",
+   "title": "Ordenanza 10966/2026: Concédase la excepción a la Ordenanza de Zonificación según Usos Nº 7494/18, solicitada por BARC S.A, y en su representación el Sr. Baya Juan Manuel, propietario de la quinta 162, Parcela 2 de la localidad de Chacabuco, ",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/15682/contents/2437036",
+   "versions": [
+    {
+     "from": "2026-09-30",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/15682/contents/2437036",
+     "sha256": "c96d7e5d1facb323975637dfa63b40bfc12643b3de8ba8d858146ef9b18895af"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-10977-2026",
+   "short": "Ordenanza 10977/2026",
+   "title": "Ordenanza 10977/2026: Convalidase el Contrato de Locación, suscripto entre el Sr. Intendente Municipal Dr. Rubén Darío Golia DNI Nº 22.575.124, en representación de la Municipalidad de Chacabuco, y el Sr. Abalo Mario Jorge, DNI Nº 8.486.308, ",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/15682/contents/2437061",
+   "versions": [
+    {
+     "from": "2026-09-30",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/15682/contents/2437061",
+     "sha256": "698ec8bff522b6ed8f2df656719675512c0b23d3393d9803989334608d52a27a"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-10983-2026",
+   "short": "Ordenanza 10983/2026",
+   "title": "Ordenanza 10983/2026: Declarase de Interés Legislativo la Maratón a realizarse el día 26 de abril del corriente año en la ciudad de Chacabuco, organizada por la Agrupación Atlética local, en el marco de su cuarta edición.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/15682/contents/2437084",
+   "versions": [
+    {
+     "from": "2026-09-30",
+     "units": 5,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/15682/contents/2437084",
+     "sha256": "4ecf059a4effa720219b4a08225c9e26577292394ee5a182edc4a03d7c4152b3"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-10985-2026",
+   "short": "Ordenanza 10985/2026",
+   "title": "Ordenanza 10985/2026: Autorizase a la Parroquia Santos Arcángeles, y en su representación a la Sra. María Fernanda Suarez, el Uso del Espacio Público y corte vehicular desde la calle La Plata N° 154, doblando en calle Entre Ríos hacia Junín, ",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/15682/contents/2437088",
+   "versions": [
+    {
+     "from": "2026-09-30",
+     "units": 6,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/15682/contents/2437088",
+     "sha256": "6a946768bf633b929969c00468c2d365f6f90b4c12a706d12f743b62f88f3298"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-10989-2026",
+   "short": "Ordenanza 10989/2026",
+   "title": "Ordenanza 10989/2026: Autorícese a la Dirección de Discapacidad y en su representación al Prof. Bernardo Unsain, el uso del espacio público y corte vehicular, en calle Reconquista y San Martin, de la ciudad de Chacabuco, el día 12 de abril en",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/15682/contents/2437097",
+   "versions": [
+    {
+     "from": "2026-09-30",
+     "units": 7,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/15682/contents/2437097",
+     "sha256": "cf01ba44a588baf0592052b7dacfe34993b4c6b7e0ce6f97af80d66369a20cc2"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-10997-2026",
+   "short": "Ordenanza 10997/2026",
+   "title": "Ordenanza 10997/2026: Autorizase al Sr. Carlos Sosa, DNI Nº 17.800.318l la excepción a la ordenanza Nº 4915/09 y su modificatoria Ordenanza Nº 7112/17, para la venta de bebidas alcohólicas en el marco del “Festival de Box”, que se llevará a c",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/15682/contents/2437119",
+   "versions": [
+    {
+     "from": "2026-09-30",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/15682/contents/2437119",
+     "sha256": "b3c7d1657eef036664cc2bc63e35ca3cb3d2b504b0d700f12cd0c1d7964a132f"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-11000-2026",
+   "short": "Ordenanza 11000/2026",
+   "title": "Ordenanza 11000/2026: Autorizase a la Sra. Sánchez Roció, DNI 36.987.523, el Uso del Espacio Público en Avenida Saavedra Nº 132, entre calle 25 de Mayo y 9 de Julio, de la ciudad de Chacabuco, el día miércoles 22 o jueves 23 de abril de 2026,",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/15682/contents/2437148",
+   "versions": [
+    {
+     "from": "2026-09-30",
+     "units": 5,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/15682/contents/2437148",
+     "sha256": "a7b8bd8d831996bb88af5ab58664425489dd1241767e56a1e880e039495abddb"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-11001-2026",
+   "short": "Ordenanza 11001/2026",
+   "title": "Ordenanza 11001/2026: Convalídese el decreto Nº 390/26 s/ Reconocimiento de la deuda devengada al 28/02/2026 sobre el programa “Esfuerzo Compartidos”",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/15682/contents/2437150",
+   "versions": [
+    {
+     "from": "2026-09-30",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/15682/contents/2437150",
+     "sha256": "da46c37ce3a94d88ca69100fb6b480bff694294120350e0a3f32b3b29539380c"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-11002-2026",
+   "short": "Ordenanza 11002/2026",
+   "title": "Ordenanza 11002/2026: Declárese de Interés Social la Escrituración de Inmueble en favor del Sr. MANSILLA FERNANDO ALCIDES, DNI Nº 26.492.259, y de la Sra. MARTINEZ MÓNICA BLANCA, DNI Nº 24.489.820 cuya Nomenclatura Catastral es la siguiente: ",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/15682/contents/2437153",
+   "versions": [
+    {
+     "from": "2026-09-30",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/15682/contents/2437153",
+     "sha256": "662dfb4f09dd6679b0b6949c30a7533c9eb92542110cf17fd41d4320f63bda0e"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-11005-2026",
+   "short": "Ordenanza 11005/2026",
+   "title": "Ordenanza 11005/2026: Modifíquese el Artículo 1º de la Ordenanza Nº 10597/25, el cual quedará redactado de la siguiente manera:",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/15682/contents/2437158",
+   "versions": [
+    {
+     "from": "2026-09-30",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/15682/contents/2437158",
+     "sha256": "7bbc0a4d82fed0d36bfa924b9a0bebf7913fb009db45331674dc13a1a81ffada"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-11007-2026",
+   "short": "Ordenanza 11007/2026",
+   "title": "Ordenanza 11007/2026: Declárese de Interés Social la Escrituración de inmueble a favor del Sr. SPINDOLA ANTONIO ALBERTO, DNI Nº 14.780.751, cuya Nomenclatura Catastral es la siguiente: Circunscripción: I, Sección: G, Quinta: 508, Mza.: 508-g,",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/15682/contents/2437162",
+   "versions": [
+    {
+     "from": "2026-09-30",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/15682/contents/2437162",
+     "sha256": "d53551dd328e48591c0aa680fb2e76114475c3d6b1a7e8001747c6caa02c0478"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-11009-2026",
+   "short": "Ordenanza 11009/2026",
+   "title": "Ordenanza 11009/2026: Declárese de Interés Social la Escrituración de Inmueble en favor de la Sra. LUNA MICAELA ELIANA, DNI Nº 34.240.918, cuya Nomenclatura Catastral es la siguiente: Circunscripción: I, Sección: K, Quinta: 773, Mza.: 773-E, ",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/15682/contents/2437164",
+   "versions": [
+    {
+     "from": "2026-09-30",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/15682/contents/2437164",
+     "sha256": "0ec2e27cadf27253519bf193c16700dbe767d2d003d7c24bef6ca8183467c18d"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-11018-2026",
+   "short": "Ordenanza 11018/2026",
+   "title": "Ordenanza 11018/2026: Declárese de interés Legislativo y Deportivo la trayectoria de Estefanía Salerno, por su invaluable aporte al deporte local y por ser la primera mujer boxeadora profesional del Partido de Chacabuco.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/15682/contents/2437337",
+   "versions": [
+    {
+     "from": "2026-09-30",
+     "units": 5,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/15682/contents/2437337",
+     "sha256": "682df42ab1789f5657a782f0cf0afbb5e97fbca31b4d9c6e7b199f6ec767c2cf"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-11022-2026",
+   "short": "Ordenanza 11022/2026",
+   "title": "Ordenanza 11022/2026: Autorizase a la Secretaria Parroquial de la Parroquia Santos Arcángeles, el Uso del Espacio Público y corte vehicular de las calles Santa Fe y la Plata. Comenzando desde calle La Plata hasta Domínguez y desde allí hasta ",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/15682/contents/2437347",
+   "versions": [
+    {
+     "from": "2026-09-30",
+     "units": 6,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/15682/contents/2437347",
+     "sha256": "154248abde74b96784130510810584e5dabef35a51c80183cf19b0ef5154a701"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-11025-2026",
+   "short": "Ordenanza 11025/2026",
+   "title": "Ordenanza 11025/2026: Autorizase a la Parroquia San Isidro Labrador, y en su representación al Sr. King Carlos Darío, DNI Nº 17.144.815, el Uso del Espacio Público y corte de tránsito vehicular, el día 15 de mayo de 2026, desde las 18:30 hs.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/15682/contents/2437351",
+   "versions": [
+    {
+     "from": "2026-09-30",
+     "units": 6,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/15682/contents/2437351",
+     "sha256": "bc20a800c7eb4287f73cf763edcf628adf4634b83d91a8824a672e5654531379"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-11030-2026",
+   "short": "Ordenanza 11030/2026",
+   "title": "Ordenanza 11030/2026: Autorizase a la “Agrupación la Campora” y su representación al Sr. Santiago Carnaghi, DNI: 27.386.390, el Uso del Espacio Público, en calle Villegas y Carlos Gardel, de la ciudad de Chacabuco, el día 13 de Mayo de 2026, ",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/15682/contents/2437370",
+   "versions": [
+    {
+     "from": "2026-09-30",
+     "units": 6,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/15682/contents/2437370",
+     "sha256": "dc4dcd6be12902202ff8743891611b68e8dc7592df2b4a7c5fafdc9c43b3a70a"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-11036-2026",
+   "short": "Ordenanza 11036/2026",
+   "title": "Ordenanza 11036/2026: Autorizase a MICAL S.A, el Uso del Espacio Público y corte de tránsito vehicular en calle San Martin entre Primera Junta y Buenos Aires (Escuela Nº 1), en el horario de 09:00hs a 12:00 aprox.. Dicha actividad se desarrol",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/15682/contents/2437382",
+   "versions": [
+    {
+     "from": "2026-09-30",
+     "units": 5,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/15682/contents/2437382",
+     "sha256": "c7a8679d195ecafe9b231007892d7f23b463adf7d33cad90da81199579a189e2"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-11042-2026",
+   "short": "Ordenanza 11042/2026",
+   "title": "Ordenanza 11042/2026: Otórguese la Excepción a la Ordenanza Zonificación Nº 7494/18 y Uso de Suelo, al Sr. Sawczuk, Juan José DNI 20.918.918, respecto al inmueble identificado Catastralmente como; Circunscripción 1, Sección: B, Quinta 7, Part",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/15682/contents/2438976",
+   "versions": [
+    {
+     "from": "2026-09-30",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/15682/contents/2438976",
+     "sha256": "2bc238c33965b9f6bb23a7b3a5c0248ef5efa8278de1d06aa525f0a6f4529982"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-11060-2026",
+   "short": "Ordenanza 11060/2026",
+   "title": "Ordenanza 11060/2026: Autorizase a Jefatura Distrital de educación, el Uso del Espacio Público, Plaza Manuel Belgrano, y corte de tránsito vehicular en calle Tucumán entre Remedios Escalada de San Martin y Maipú, y calle Maipú entre Catamarca",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/15682/contents/2439019",
+   "versions": [
+    {
+     "from": "2026-09-30",
+     "units": 6,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/15682/contents/2439019",
+     "sha256": "20f3cab055258fb8e64b76d8dc6d0f95945c994118268b6daeb346b17381ca77"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-11075-2026",
+   "short": "Ordenanza 11075/2026",
+   "title": "Ordenanza 11075/2026: Condónese el pago del derecho de construcción requerido por la Escuela de Educación Católica, conforme a obra de ampliación edilicia, en el inmueble identificado catastralmente como Cir.: I, Sec.: A, Mza.: 72, Parc.: 6-a",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/15682/contents/2439049",
+   "versions": [
+    {
+     "from": "2026-09-30",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/15682/contents/2439049",
+     "sha256": "302ca135bab24e2f4c67653954932ca8c174b34e4e26216ec3865099bc405d0c"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-11078-2026",
+   "short": "Ordenanza 11078/2026",
+   "title": "Ordenanza 11078/2026: Convalídese el Convenio Especifico celebrado entre la Municipalidad de Chacabuco, representada en este acto por el Sr. Intendente Municipal, el Dr. Rubén Darío Golia DNI Nº 22.575.124 y la Facultad Regional San Nicolás d",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/15682/contents/2439054",
+   "versions": [
+    {
+     "from": "2026-09-30",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/15682/contents/2439054",
+     "sha256": "f552d63c9d084aaa595fbe14d05a9d4c53ff68777392327fc911c73875694053"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-11085-2026",
+   "short": "Ordenanza 11085/2026",
+   "title": "Ordenanza 11085/2026: Autorizar al Departamento Ejecutivo a formalizar contratos de locación con opción a compra bajo la modalidad de contrato de Leasing con Provincia Leasing S.A., sociedad con participación mayoritaria del Banco de la Provi",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/15682/contents/2439064",
+   "versions": [
+    {
+     "from": "2026-09-30",
+     "units": 8,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/15682/contents/2439064",
+     "sha256": "73a04ee7a00a2444f6f04346d3a41ad60469f1b5b99fd410871665b39c5434fd"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-11111-2026",
+   "short": "Ordenanza 11111/2026",
+   "title": "Ordenanza 11111/2026: Declárese de Interés Social la Escrituración de Inmueble en favor de la Sra. MONZON JESICA BELEN, DNI Nº 39.456.822, y del Sr. PONCE RAMON NICOLAS, DNI N° 36.638.590, cuya Nomenclatura Catastral es la siguiente: Circunsc",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/15682/contents/2439195",
+   "versions": [
+    {
+     "from": "2026-09-30",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/15682/contents/2439195",
+     "sha256": "a5733372ef1a830e59acad27b93939f6d9e9fdb41d98fc40efe88d5f90e6d5f0"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-11114-2026",
+   "short": "Ordenanza 11114/2026",
+   "title": "Ordenanza 11114/2026: Declárese de Interés Social la Escrituración de inmueble a favor del Sr. BUTIERREZ JESUS EXEQUIEL, DNI Nº 40.264.531, cuya Nomenclatura Catastral es la siguiente: Circunscripción: I, Sección: K, Quinta: 791, Mza.: 791-a,",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/15682/contents/2442170",
+   "versions": [
+    {
+     "from": "2026-09-30",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/15682/contents/2442170",
+     "sha256": "2f12b0daa5449b96c1a6bf6db1b6f9d4c8a4fbe5676073844eae9c36bc2a6db6"
+    }
+   ]
+  }
+ ]
+}
